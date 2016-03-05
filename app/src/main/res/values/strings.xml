@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HealthyMB</string>
+    <string name="l_menu">Menu</string>
+    <string name="l_login">Login</string>
+    <string name="l_password">Password</string>
+    <string name="b_signin">Sign In</string>
+    <string name="b_checkco">Check your connection</string>
+    <string name="b_signup">Sign up</string>
+</resources>

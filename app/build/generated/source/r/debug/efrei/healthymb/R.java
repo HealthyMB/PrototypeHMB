@@ -1611,11 +1611,15 @@ containing a value of this type.
         public static final int abc_textfield_search_activated_mtrl_alpha=0x7f020048;
         public static final int abc_textfield_search_default_mtrl_alpha=0x7f020049;
         public static final int abc_textfield_search_material=0x7f02004a;
-        public static final int ic_home_diet=0x7f02004b;
-        public static final int ic_home_gym=0x7f02004c;
-        public static final int ic_home_pref=0x7f02004d;
-        public static final int ic_home_profil=0x7f02004e;
-        public static final int notification_template_icon_bg=0x7f02004f;
+        public static final int diet=0x7f02004b;
+        public static final int ic_home_diet=0x7f02004c;
+        public static final int ic_home_gym=0x7f02004d;
+        public static final int ic_home_pref=0x7f02004e;
+        public static final int ic_home_profil=0x7f02004f;
+        public static final int notification_template_icon_bg=0x7f020053;
+        public static final int options=0x7f020050;
+        public static final int profil=0x7f020051;
+        public static final int sport=0x7f020052;
     }
     public static final class id {
         public static final int L_Co=0x7f0c005e;

@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="D:\Cloud\OneDrive\Android\HealthyMB\app\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="D:\Cloud\OneDrive\Android\HealthyMB\app\src\debug\jniLibs"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="C:\Users\PAUL\Desktop\Cours\Android_Workspace\PrototypeHMB\app\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="C:\Users\PAUL\Desktop\Cours\Android_Workspace\PrototypeHMB\app\src\debug\jniLibs"/></dataSet></merger>

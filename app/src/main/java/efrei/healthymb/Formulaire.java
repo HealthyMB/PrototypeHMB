@@ -66,19 +66,18 @@ public class Formulaire extends AppCompatActivity {
                 // Vérification que toutes les données nécessaires sont bien saisis :
                 if (!isMasculin && !isFeminin) {
                     Toast.makeText(Formulaire.this, "Vous devez renseigner votre genre!", Toast.LENGTH_LONG).show();
-                } else if (!perdrePoids && !physique && !muscu) {
-                    Toast.makeText(Formulaire.this, "Vous devez renseigner au moins un objectif!", Toast.LENGTH_LONG).show();
                 } else if (taille == 0){
                     Toast.makeText(Formulaire.this, "Vous devez renseigner votre taille!", Toast.LENGTH_LONG).show();
                 } else if (poids == 0){
                     Toast.makeText(Formulaire.this, "Vous devez renseigner votre poids!", Toast.LENGTH_LONG).show();
                 } else if (age == 0){
                     Toast.makeText(Formulaire.this, "Vous devez renseigner votre age!", Toast.LENGTH_LONG).show();
+                } else if (!perdrePoids && !physique && !muscu) {
+                    Toast.makeText(Formulaire.this, "Vous devez renseigner au moins un objectif!", Toast.LENGTH_LONG).show();
                 } else {
-                    Toast.makeText(Formulaire.this, "Go Profil", Toast.LENGTH_LONG).show();
+                    Intent intent = new Intent(Formulaire.this, Menu.class);
+                    startActivity(intent);
                 }
-
-
             }
         });
     }
@@ -91,8 +90,6 @@ public class Formulaire extends AppCompatActivity {
             masculin.setChecked(false);
             feminin.setChecked(false);
             ((CheckBox) v).setChecked(true);
-            Intent intent = new Intent(Formulaire.this, Menu.class);
-            startActivity(intent);
         }
     }
 

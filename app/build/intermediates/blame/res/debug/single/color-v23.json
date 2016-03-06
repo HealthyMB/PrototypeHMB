@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
         "merged": "D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
         "source": "D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\color-v23\\abc_color_highlight_material.xml"
     },

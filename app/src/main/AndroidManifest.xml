@@ -12,15 +12,16 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".Menu" />
-        <activity android:name=".Authentification"></activity>
-        <activity android:name=".Formulaire">
-        </activity>
-        <activity android:name=".Accountcreation">
+        <activity android:name=".Authentification">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+        <activity android:name=".Formulaire">
+        </activity>
+        <activity android:name=".Accountcreation">
         </activity>
     </application>
 

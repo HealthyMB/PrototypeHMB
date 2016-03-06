@@ -4,15 +4,11 @@
         "source": "D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-ldrtl-mdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
-        "merged": "D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi-v17\\abc_spinner_mtrl_am_alpha.9.png",
-        "source": "D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-ldrtl-mdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Valentin\\AndroidStudioProjects\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi-v17\\abc_spinner_mtrl_am_alpha.9.png",
-        "source": "C:\\Users\\Valentin\\AndroidStudioProjects\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-ldrtl-mdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
-    },
-    {
         "merged": "C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi-v17\\abc_spinner_mtrl_am_alpha.9.png",
         "source": "C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-ldrtl-mdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi-v17\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-ldrtl-mdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
     }
 ]

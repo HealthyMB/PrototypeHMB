@@ -10,12 +10,13 @@ import android.util.Log;
 import android.view.View;
 import android.widget.EditText;
 import android.widget.TextView;
+import android.widget.Toast;
 
 public class Authentification extends AppCompatActivity implements View.OnClickListener {
 
-    String loginEt = null;
-    String mdpEt = null;
-    String messagerror = "Error";
+    private String loginEt;
+    private String mdpEt;
+    private String messagerror = "Error";
 
 
     @Override
@@ -33,7 +34,7 @@ public class Authentification extends AppCompatActivity implements View.OnClickL
                 mdpEt = ((EditText) findViewById(R.id.password)).getText().toString();
                 User membre = new User(loginEt, mdpEt);
                 if(loginEt.equals("Admin") && mdpEt.equals("mdp")) {
-                    Intent intent = new Intent(Authentification.this, Menu.class);
+                    Intent intent = new Intent(Authentification.this, Formulaire.class);
                     startActivity(intent);
                 }
                 else{
@@ -56,6 +57,16 @@ public class Authentification extends AppCompatActivity implements View.OnClickL
                 }
             }
             break;
+
+            case R.id.b_create:
+            {
+                Intent intent = new Intent(Authentification.this, Accountcreation.class);
+                startActivity(intent);
+            }
+            break;
+
+            default:
+                break;
         }
     }
 }

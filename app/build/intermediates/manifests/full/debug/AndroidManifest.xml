@@ -18,15 +18,16 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme" >
         <activity android:name="efrei.healthymb.Menu" />
-        <activity android:name="efrei.healthymb.Authentification" />
-        <activity android:name="efrei.healthymb.Formulaire" >
-        </activity>
-        <activity android:name="efrei.healthymb.Accountcreation" >
+        <activity android:name="efrei.healthymb.Authentification" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+        <activity android:name="efrei.healthymb.Formulaire" >
+        </activity>
+        <activity android:name="efrei.healthymb.Accountcreation" >
         </activity>
     </application>
 

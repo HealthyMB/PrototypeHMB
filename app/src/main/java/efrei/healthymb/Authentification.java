@@ -8,41 +8,69 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
+import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import java.util.HashMap;
+
+import async.AsyncResponse;
+import async.PostResponseAsyncTask;
+
 public class Authentification extends AppCompatActivity implements View.OnClickListener {
 
-    private String loginEt;
-    private String mdpEt;
-    private String messagerror = "Error";
+    EditText emailEt;
+    EditText mdpEt;
+    Button btnLogin;
+    final String LOG = "LoginActivity";
 
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_authentification);
-    }
 
+        emailEt = ((EditText) findViewById(R.id.login));
+        mdpEt = ((EditText) findViewById(R.id.password));
+        btnLogin = (Button) findViewById(R.id.b_signin);
+
+        btnLogin.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                HashMap postData = new HashMap();
+
+                String email = emailEt.getText().toString();
+                String password = mdpEt.getText().toString();
+
+                postData.put("txtEmail", email );
+                postData.put("txtPassword", password);
+                PostResponseAsyncTask task1 = new PostResponseAsyncTask(Authentification.this, postData, new AsyncResponse()
+                {
+                            @Override
+                            public void processFinish(String s) {
+                                Log.d("Page Web", s);
+                                if(s.contains("success")){
+                                    Toast.makeText(Authentification.this, "Sucessfully Login", Toast.LENGTH_LONG).show();
+                                    Intent in = new Intent(Authentification.this, Formulaire.class);
+                                    startActivity(in);
+                                }
+                                else{
+                                    Toast.makeText(Authentification.this, "Try Again", Toast.LENGTH_LONG).show();
+                                }
+                            }
+                        });
+                //task1.execute("http://urlici");
+                task1.execute("http://healthymb.alwaysdata.net/");
+
+            }
+        });
+
+    }
 
     @Override
     public void onClick(View v) {
         switch (v.getId()) {
-            case R.id.b_signin: {
-                loginEt = ((EditText) findViewById(R.id.login)).getText().toString();
-                mdpEt = ((EditText) findViewById(R.id.password)).getText().toString();
-                User membre = new User(loginEt, mdpEt);
-                if(loginEt.equals("Admin") && mdpEt.equals("mdp")) {
-                    Intent intent = new Intent(Authentification.this, Formulaire.class);
-                    startActivity(intent);
-                }
-                else{
-                    TextView error = (TextView) findViewById(R.id.l_failed);
-                    error.setText(messagerror);
-                }
-            }
-            break;
 
             case R.id.b_checkco:
             {
@@ -69,4 +97,6 @@ public class Authentification extends AppCompatActivity implements View.OnClickL
                 break;
         }
     }
+
+
 }

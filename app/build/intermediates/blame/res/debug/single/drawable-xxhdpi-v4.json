@@ -156,6 +156,10 @@
         "source": "C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\abc_ic_menu_share_material.png"
     },
     {
+        "merged": "C:\\Users\\Valentin\\AndroidStudioProjects\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_home_stats.png",
+        "source": "C:\\Users\\Valentin\\AndroidStudioProjects\\PrototypeHMB\\app\\src\\main\\res\\drawable-xxhdpi\\ic_home_stats.png"
+    },
+    {
         "merged": "C:\\Users\\Valentin\\AndroidStudioProjects\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
         "source": "C:\\Users\\Valentin\\AndroidStudioProjects\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
     },
@@ -226,10 +230,6 @@
     {
         "merged": "C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
         "source": "C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-xxhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Valentin\\AndroidStudioProjects\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_home_gym.png",
-        "source": "C:\\Users\\Valentin\\AndroidStudioProjects\\PrototypeHMB\\app\\src\\main\\res\\drawable-xxhdpi\\ic_home_gym.png"
     },
     {
         "merged": "C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_btn_checkbox_checked_mtrl.png",
@@ -576,6 +576,10 @@
         "source": "D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_36dp.png"
     },
     {
+        "merged": "C:\\Users\\Valentin\\AndroidStudioProjects\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_home_exit.png",
+        "source": "C:\\Users\\Valentin\\AndroidStudioProjects\\PrototypeHMB\\app\\src\\main\\res\\drawable-xxhdpi\\ic_home_exit.png"
+    },
+    {
         "merged": "C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
         "source": "C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-xxhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
     },
@@ -654,6 +658,10 @@
     {
         "merged": "C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_star_black_16dp.png",
         "source": "C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Valentin\\AndroidStudioProjects\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_home_sport.png",
+        "source": "C:\\Users\\Valentin\\AndroidStudioProjects\\PrototypeHMB\\app\\src\\main\\res\\drawable-xxhdpi\\ic_home_sport.png"
     },
     {
         "merged": "C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",

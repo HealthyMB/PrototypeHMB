@@ -360,10 +360,6 @@
         "source": "D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png"
     },
     {
-        "merged": "C:\\Users\\Valentin\\AndroidStudioProjects\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_home_gym.png",
-        "source": "C:\\Users\\Valentin\\AndroidStudioProjects\\PrototypeHMB\\app\\src\\main\\res\\drawable-hdpi\\ic_home_gym.png"
-    },
-    {
         "merged": "C:\\Users\\Valentin\\AndroidStudioProjects\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
         "source": "C:\\Users\\Valentin\\AndroidStudioProjects\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
     },
@@ -600,6 +596,10 @@
         "source": "D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\abc_ic_menu_share_material.png"
     },
     {
+        "merged": "C:\\Users\\Valentin\\AndroidStudioProjects\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_home_sport.png",
+        "source": "C:\\Users\\Valentin\\AndroidStudioProjects\\PrototypeHMB\\app\\src\\main\\res\\drawable-hdpi\\ic_home_sport.png"
+    },
+    {
         "merged": "C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png",
         "source": "C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png"
     },
@@ -736,6 +736,10 @@
         "source": "C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\abc_ic_menu_selectall_material.png"
     },
     {
+        "merged": "C:\\Users\\Valentin\\AndroidStudioProjects\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_home_stats.png",
+        "source": "C:\\Users\\Valentin\\AndroidStudioProjects\\PrototypeHMB\\app\\src\\main\\res\\drawable-hdpi\\ic_home_stats.png"
+    },
+    {
         "merged": "D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png",
         "source": "D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png"
     },
@@ -814,5 +818,9 @@
     {
         "merged": "D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
         "source": "D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Valentin\\AndroidStudioProjects\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_home_exit.png",
+        "source": "C:\\Users\\Valentin\\AndroidStudioProjects\\PrototypeHMB\\app\\src\\main\\res\\drawable-hdpi\\ic_home_exit.png"
     }
 ]

@@ -20,4 +20,10 @@
     <string name="muscu">Se renforcer musculairement :</string>
     <string name="valider">Valider</string>
     <string name="confirmMdp">Confirmez le mot de passe</string>
+    <string name="title_activity_menu">MenuActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
 </resources>

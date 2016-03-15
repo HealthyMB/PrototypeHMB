@@ -75,7 +75,7 @@ public class Formulaire extends AppCompatActivity {
                 } else if (!perdrePoids && !physique && !muscu) {
                     Toast.makeText(Formulaire.this, "Vous devez renseigner au moins un objectif!", Toast.LENGTH_LONG).show();
                 } else {
-                    Intent intent = new Intent(Formulaire.this, Menu.class);
+                    Intent intent = new Intent(Formulaire.this, MenuActivity.class);
                     startActivity(intent);
                 }
             }

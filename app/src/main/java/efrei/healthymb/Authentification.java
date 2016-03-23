@@ -48,7 +48,6 @@ public class Authentification extends AppCompatActivity implements View.OnClickL
                 PostResponseAsyncTask task1 = new PostResponseAsyncTask(Authentification.this, postData, new AsyncResponse() {
                     @Override
                     public void processFinish(String s) {
-                        System.out.println(s);
                         Log.d("Page Web", s);
                         if (s.contains("success")) {
                             Toast.makeText(Authentification.this, "Sucessfully Login", Toast.LENGTH_LONG).show();
@@ -59,8 +58,7 @@ public class Authentification extends AppCompatActivity implements View.OnClickL
                         }
                     }
                 });
-                task1.execute("http://healthymb.alwaysdata.net/");
-
+                task1.execute("http://healthymb.no-ip.org:8080/PA8/");
             }
         });
 

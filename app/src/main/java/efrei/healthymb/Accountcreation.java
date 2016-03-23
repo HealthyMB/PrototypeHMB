@@ -40,6 +40,5 @@ public class Accountcreation extends AppCompatActivity implements View.OnClickLi
             Intent intent = new Intent(Accountcreation.this, Formulaire.class);
             startActivity(intent);
         }
-
     }
 }

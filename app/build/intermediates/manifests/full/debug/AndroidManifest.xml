@@ -29,6 +29,8 @@
         </activity>
         <activity android:name="efrei.healthymb.Accountcreation" >
         </activity>
+        <activity android:name="efrei.healthymb.Profil" >
+        </activity>
     </application>
 
 </manifest>

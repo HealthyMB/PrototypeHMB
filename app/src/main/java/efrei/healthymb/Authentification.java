@@ -43,24 +43,22 @@ public class Authentification extends AppCompatActivity implements View.OnClickL
                 String email = emailEt.getText().toString();
                 String password = mdpEt.getText().toString();
 
-                postData.put("txtEmail", email );
+                postData.put("txtEmail", email);
                 postData.put("txtPassword", password);
-                PostResponseAsyncTask task1 = new PostResponseAsyncTask(Authentification.this, postData, new AsyncResponse()
-                {
-                            @Override
-                            public void processFinish(String s) {
-                                Log.d("Page Web", s);
-                                if(s.contains("success")){
-                                    Toast.makeText(Authentification.this, "Sucessfully Login", Toast.LENGTH_LONG).show();
-                                    Intent in = new Intent(Authentification.this, Formulaire.class);
-                                    startActivity(in);
-                                }
-                                else{
-                                    Toast.makeText(Authentification.this, "Try Again", Toast.LENGTH_LONG).show();
-                                }
-                            }
-                        });
-                //task1.execute("http://urlici");
+                PostResponseAsyncTask task1 = new PostResponseAsyncTask(Authentification.this, postData, new AsyncResponse() {
+                    @Override
+                    public void processFinish(String s) {
+                        System.out.println(s);
+                        Log.d("Page Web", s);
+                        if (s.contains("success")) {
+                            Toast.makeText(Authentification.this, "Sucessfully Login", Toast.LENGTH_LONG).show();
+                            Intent in = new Intent(Authentification.this, Formulaire.class);
+                            startActivity(in);
+                        } else {
+                            Toast.makeText(Authentification.this, "Try Again", Toast.LENGTH_LONG).show();
+                        }
+                    }
+                });
                 task1.execute("http://healthymb.alwaysdata.net/");
 
             }

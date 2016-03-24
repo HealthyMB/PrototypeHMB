@@ -38,25 +38,12 @@
                 android:id="@+id/sexeId"
                 android:textSize="20dp" />
 
-            <CheckBox
+            <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="@string/masculin"
-                android:id="@+id/masculinId"
-                android:button="@null"
-                android:drawableRight="?android:attr/listChoiceIndicatorMultiple"
-                android:visibility="visible"
-                android:layout_marginLeft="10dp"
-                android:layout_marginRight="5dp" />
-
-            <CheckBox
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="@string/feminin"
-                android:id="@+id/femininId"
-                android:button="@null"
-                android:drawableRight="?android:attr/listChoiceIndicatorMultiple"
-                android:layout_gravity="right" />
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="@string/sexeT"
+                android:id="@+id/sexeTid" />
 
 
         </LinearLayout>
@@ -74,27 +61,12 @@
                 android:id="@+id/tailleId"
                 android:textSize="20dp" />
 
-            <LinearLayout
+            <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:orientation="vertical">
-
-                <SeekBar
-                    android:layout_width="180dp"
-                    android:layout_height="wrap_content"
-                    android:id="@+id/tailleBarId"
-                    android:layout_gravity="center_horizontal"
-                    android:layout_marginLeft="2dp" />
-
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:text="0 cm"
-                    android:id="@+id/tailleValeurId"
-                    android:textSize="15dp"
-                    android:layout_gravity="center_horizontal" />
-
-            </LinearLayout>
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="@string/tailleT"
+                android:id="@+id/tailleTid" />
 
         </LinearLayout>
 
@@ -111,25 +83,12 @@
                 android:id="@+id/poidsId"
                 android:textSize="20dp" />
 
-            <LinearLayout
+            <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:orientation="vertical">
-
-                <SeekBar
-                    android:layout_width="180dp"
-                    android:layout_height="wrap_content"
-                    android:id="@+id/poidsBarId" />
-
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:text="0 kg"
-                    android:id="@+id/poidsValeurId"
-                    android:textSize="15dp"
-                    android:layout_gravity="center_horizontal" />
-
-            </LinearLayout>
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="@string/poidsT"
+                android:id="@+id/poidsTid" />
 
         </LinearLayout>
 
@@ -146,27 +105,12 @@
                 android:id="@+id/ageId"
                 android:textSize="20dp" />
 
-            <LinearLayout
+            <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:orientation="vertical">
-
-                <SeekBar
-                    android:layout_width="180dp"
-                    android:layout_height="wrap_content"
-                    android:id="@+id/ageBarId"
-                    android:layout_marginLeft="16dp" />
-
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:text="0 ans"
-                    android:id="@+id/ageValeurId"
-                    android:textSize="15dp"
-                    android:layout_gravity="center_horizontal" />
-
-            </LinearLayout>
-
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="@string/ageT"
+                android:id="@+id/ageTid" />
 
 
         </LinearLayout>
@@ -190,7 +134,8 @@
             android:button="@null"
             android:drawableRight="?android:attr/listChoiceIndicatorMultiple"
             android:layout_marginTop="3dp"
-            android:layout_marginBottom="3dp" />
+            android:layout_marginBottom="3dp"
+            android:enabled="true" />
 
 
         <CheckBox
@@ -220,11 +165,10 @@
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/valider"
-            android:id="@+id/validerId"
+            android:text="@string/modifier"
+            android:id="@+id/modifierId"
             android:layout_gravity="center_horizontal"
             android:layout_marginTop="20dp" />
-
 
     </LinearLayout>
 </ScrollView>

@@ -20,4 +20,9 @@
     <string name="muscu">Se renforcer musculairement :</string>
     <string name="valider">Valider</string>
     <string name="confirmMdp">Confirmez le mot de passe</string>
+    <string name="sexeT">" Masculin"</string>
+    <string name="tailleT">" 1m82"</string>
+    <string name="poidsT">" 80kg"</string>
+    <string name="ageT">" 22 ans"</string>
+    <string name="modifier">modifier</string>
 </resources>

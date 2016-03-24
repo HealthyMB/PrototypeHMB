@@ -214,6 +214,7 @@
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
     <string name="age">Age :</string>
+    <string name="ageT">" 22 ans"</string>
     <string name="app_name">HealthyMB</string>
     <string name="b_checkco">Vérifier votre connection</string>
     <string name="b_signin">S\'identifier</string>
@@ -226,14 +227,18 @@
     <string name="l_menu">Menu</string>
     <string name="l_password">Mot de passe</string>
     <string name="masculin">Masculin</string>
+    <string name="modifier">modifier</string>
     <string name="muscu">Se renforcer musculairement :</string>
     <string name="objectifs">Objectifs :</string>
     <string name="perdrePoids">Perdre du poids :</string>
     <string name="physique">Se maintenir physiquement :</string>
     <string name="poids">Poids :</string>
+    <string name="poidsT">" 80kg"</string>
     <string name="sexe">Sexe :</string>
+    <string name="sexeT">" Masculin"</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="taille">Taille :</string>
+    <string name="tailleT">" 1m82"</string>
     <string name="valider">Valider</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>

@@ -38,27 +38,32 @@ public class Authentification extends AppCompatActivity implements View.OnClickL
         btnLogin.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                HashMap postData = new HashMap();
 
                 String email = emailEt.getText().toString();
                 String password = mdpEt.getText().toString();
 
-                postData.put("txtEmail", email);
-                postData.put("txtPassword", password);
-                PostResponseAsyncTask task1 = new PostResponseAsyncTask(Authentification.this, postData, new AsyncResponse() {
-                    @Override
-                    public void processFinish(String s) {
-                        Log.d("Page Web", s);
-                        if (s.contains("success")) {
-                            Toast.makeText(Authentification.this, "Sucessfully Login", Toast.LENGTH_LONG).show();
-                            Intent in = new Intent(Authentification.this, Formulaire.class);
-                            startActivity(in);
-                        } else {
-                            Toast.makeText(Authentification.this, "Try Again", Toast.LENGTH_LONG).show();
+                if(email.isEmpty() || password.isEmpty()){
+                    Toast.makeText(Authentification.this, "Vous devez renseigner tous les champs!", Toast.LENGTH_LONG).show();
+                } else {
+                    HashMap postData = new HashMap();
+
+                    postData.put("txtEmail", email);
+                    postData.put("txtPassword", password);
+                    PostResponseAsyncTask task1 = new PostResponseAsyncTask(Authentification.this, postData, new AsyncResponse() {
+                        @Override
+                        public void processFinish(String s) {
+                            Toast.makeText(Authentification.this, s, Toast.LENGTH_LONG).show();
+                            if (s.contains("success")) {
+                                Toast.makeText(Authentification.this, "Sucessfully Login", Toast.LENGTH_LONG).show();
+                                Intent in = new Intent(Authentification.this, Formulaire.class);
+                                startActivity(in);
+                            } else {
+                                Toast.makeText(Authentification.this, "Try Again", Toast.LENGTH_LONG).show();
+                            }
                         }
-                    }
-                });
-                task1.execute("http://healthymb.no-ip.org:8080/PA8/");
+                    });
+                    task1.execute("http://healthymb.no-ip.org:8080/PA8/");
+                }
             }
         });
 

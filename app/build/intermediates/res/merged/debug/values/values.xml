@@ -296,7 +296,7 @@
     <string name="bottom_sheet_behavior" translatable="false">android.support.design.widget.BottomSheetBehavior</string>
     <string name="character_counter_pattern" translatable="false">%1$d / %2$d</string>
     <string name="confirmMdp">Confirmez le mot de passe</string>
-    <string name="creerCompte">Créer un compte</string>
+    <string name="creerCompte"> <u>Pas de compte ? Inscrivez-vous</u> </string>
     <string name="feminin">Feminin</string>
     <string name="generalites">Généralités</string>
     <string name="l_login">Pseudo</string>

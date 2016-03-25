@@ -6,7 +6,7 @@
     <string name="b_signin">S\'identifier</string>
     <string name="b_checkco">Vérifier votre connection</string>
     <string name="b_signup">S\'enregister</string>
-    <string name="creerCompte">Créer un compte</string>
+    <string name="creerCompte"> <u>Pas de compte ? Inscrivez-vous</u> </string>
     <string name="generalites">Généralités</string>
     <string name="sexe">Sexe :</string>
     <string name="masculin">Masculin</string>

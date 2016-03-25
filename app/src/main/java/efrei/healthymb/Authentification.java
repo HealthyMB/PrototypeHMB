@@ -1,5 +1,6 @@
 package efrei.healthymb;
 
+import android.app.ProgressDialog;
 import android.content.Context;
 import android.content.Intent;
 import android.net.ConnectivityManager;
@@ -40,20 +41,6 @@ public class Authentification extends AppCompatActivity implements View.OnClickL
                 else{
                     TextView error = (TextView) findViewById(R.id.l_failed);
                     error.setText(messagerror);
-                }
-            }
-            break;
-
-            case R.id.b_checkco:
-            {
-                TextView e = (TextView) findViewById(R.id.L_Co);
-                ConnectivityManager connMgr = (ConnectivityManager) getSystemService(Context.CONNECTIVITY_SERVICE);
-                NetworkInfo networkInfo = connMgr.getActiveNetworkInfo();
-                if (networkInfo != null && networkInfo.isConnected()) {
-                    e.setText("Congrat ! You are connected to internet !");
-                    Log.d("MyApp", "I am here");
-                } else {
-                    e.setText("Failed !");
                 }
             }
             break;

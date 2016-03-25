@@ -12,12 +12,16 @@
     tools:context="efrei.healthymb.MenuActivity"
     tools:showIn="@layout/app_bar_menu">
 
-    <ImageView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:id="@+id/imageView2"
-        android:src="@drawable/accueil"
-        android:layout_alignParentTop="true"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true" />
+    <ViewFlipper xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/vf"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+
+        <include android:id="@+id/test1" layout="@layout/accueil" />
+        <include android:id="@+id/test1" layout="@layout/test" />
+        <include android:id="@+id/test2" layout="@layout/test2" />
+        <include android:id="@+id/test3" layout="@layout/test3" />
+
+    </ViewFlipper>
+
 </RelativeLayout>

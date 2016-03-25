@@ -64,6 +64,10 @@
         "source": "D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\notification_media_action.xml"
     },
     {
+        "merged": "C:\\Users\\Valentin\\AndroidStudioProjects\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\accueil.xml",
+        "source": "C:\\Users\\Valentin\\AndroidStudioProjects\\PrototypeHMB\\app\\src\\main\\res\\layout\\accueil.xml"
+    },
+    {
         "merged": "C:\\Users\\Valentin\\AndroidStudioProjects\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
         "source": "C:\\Users\\Valentin\\AndroidStudioProjects\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\notification_template_big_media_narrow.xml"
     },
@@ -122,6 +126,14 @@
     {
         "merged": "D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
         "source": "D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Valentin\\AndroidStudioProjects\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\test2.xml",
+        "source": "C:\\Users\\Valentin\\AndroidStudioProjects\\PrototypeHMB\\app\\src\\main\\res\\layout\\test2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Valentin\\AndroidStudioProjects\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\test.xml",
+        "source": "C:\\Users\\Valentin\\AndroidStudioProjects\\PrototypeHMB\\app\\src\\main\\res\\layout\\test.xml"
     },
     {
         "merged": "C:\\Users\\Valentin\\AndroidStudioProjects\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
@@ -474,6 +486,10 @@
     {
         "merged": "D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
         "source": "D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\Valentin\\AndroidStudioProjects\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\test3.xml",
+        "source": "C:\\Users\\Valentin\\AndroidStudioProjects\\PrototypeHMB\\app\\src\\main\\res\\layout\\test3.xml"
     },
     {
         "merged": "C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",

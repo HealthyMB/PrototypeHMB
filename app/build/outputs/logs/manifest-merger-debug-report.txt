@@ -66,15 +66,15 @@ ADDED from C:\Users\Valentin\AndroidStudioProjects\PrototypeHMB\app\src\main\And
 	android:name
 		ADDED from C:\Users\Valentin\AndroidStudioProjects\PrototypeHMB\app\src\main\AndroidManifest.xml:18:27-74
 activity#efrei.healthymb.Formulaire
-ADDED from C:\Users\Valentin\AndroidStudioProjects\PrototypeHMB\app\src\main\AndroidManifest.xml:21:9-57
+ADDED from C:\Users\Valentin\AndroidStudioProjects\PrototypeHMB\app\src\main\AndroidManifest.xml:21:9-48
 	android:name
 		ADDED from C:\Users\Valentin\AndroidStudioProjects\PrototypeHMB\app\src\main\AndroidManifest.xml:21:19-45
 activity#efrei.healthymb.Accountcreation
-ADDED from C:\Users\Valentin\AndroidStudioProjects\PrototypeHMB\app\src\main\AndroidManifest.xml:22:9-62
+ADDED from C:\Users\Valentin\AndroidStudioProjects\PrototypeHMB\app\src\main\AndroidManifest.xml:22:9-53
 	android:name
 		ADDED from C:\Users\Valentin\AndroidStudioProjects\PrototypeHMB\app\src\main\AndroidManifest.xml:22:19-50
 activity#efrei.healthymb.MenuActivity
-ADDED from C:\Users\Valentin\AndroidStudioProjects\PrototypeHMB\app\src\main\AndroidManifest.xml:23:9-26:68
+ADDED from C:\Users\Valentin\AndroidStudioProjects\PrototypeHMB\app\src\main\AndroidManifest.xml:23:9-26:59
 	android:label
 		ADDED from C:\Users\Valentin\AndroidStudioProjects\PrototypeHMB\app\src\main\AndroidManifest.xml:25:13-56
 	android:theme

@@ -19,17 +19,36 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textAppearance="?android:attr/textAppearanceMedium"
-            android:text="@string/l_login"
-            android:id="@+id/l_login"
-            android:textSize="23dp"
+            android:text="@string/l_firstName"
+            android:id="@+id/l_firstName"
+            android:textSize="18dp"
             android:layout_marginTop="50dp"
             android:layout_marginLeft="20dp"
             android:layout_marginRight="20dp" />
 
         <EditText
-            android:layout_width="match_parent"
+            android:layout_width="260dp"
             android:layout_height="wrap_content"
-            android:id="@+id/login"
+            android:id="@+id/firstName"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:singleLine="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="@string/l_lastName"
+            android:id="@+id/l_lastName"
+            android:textSize="18dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="10dp" />
+
+        <EditText
+            android:layout_width="260dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/lastName"
             android:layout_marginLeft="20dp"
             android:layout_marginRight="20dp"
             android:singleLine="true"
@@ -41,13 +60,13 @@
             android:textAppearance="?android:attr/textAppearanceMedium"
             android:text="Adresse e-mail"
             android:id="@+id/l_email"
-            android:textSize="23dp"
+            android:textSize="18dp"
             android:layout_marginLeft="20dp"
             android:layout_marginRight="20dp"
             android:layout_marginTop="10dp" />
 
         <EditText
-            android:layout_width="match_parent"
+            android:layout_width="260dp"
             android:layout_height="wrap_content"
             android:inputType="textEmailAddress"
             android:ems="10"
@@ -62,13 +81,13 @@
             android:textAppearance="?android:attr/textAppearanceMedium"
             android:text="@string/l_password"
             android:id="@+id/l_password"
-            android:textSize="23dp"
+            android:textSize="18dp"
             android:layout_marginLeft="20dp"
             android:layout_marginRight="20dp"
             android:layout_marginTop="10dp" />
 
         <EditText
-            android:layout_width="match_parent"
+            android:layout_width="260dp"
             android:layout_height="wrap_content"
             android:inputType="textPassword"
             android:ems="10"
@@ -82,13 +101,13 @@
             android:textAppearance="?android:attr/textAppearanceMedium"
             android:text="@string/confirmMdp"
             android:id="@+id/l_ConfirmPassword"
-            android:textSize="23dp"
+            android:textSize="18dp"
             android:layout_marginLeft="20dp"
             android:layout_marginRight="20dp"
             android:layout_marginTop="10dp" />
 
         <EditText
-            android:layout_width="match_parent"
+            android:layout_width="260dp"
             android:layout_height="wrap_content"
             android:inputType="textPassword"
             android:ems="10"

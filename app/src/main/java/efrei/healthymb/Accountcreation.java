@@ -19,10 +19,11 @@ import async.PostResponseAsyncTask;
 
 public class Accountcreation extends AppCompatActivity implements View.OnClickListener {
 
-    String loginEt;
-    String mdpEt;
-    String confimMdp;
-    String emailEt;
+    private String prenom;
+    private String nom;
+    private String mdp;
+    private String confimMdp;
+    private String email;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -32,21 +33,23 @@ public class Accountcreation extends AppCompatActivity implements View.OnClickLi
 
     @Override
     public void onClick(View v) {
-        loginEt = ((EditText) findViewById(R.id.login)).getText().toString();
-        emailEt = ((EditText) findViewById(R.id.email)).getText().toString();
-        mdpEt = ((EditText) findViewById(R.id.password)).getText().toString();
+        prenom = ((EditText) findViewById(R.id.firstName)).getText().toString();
+        nom = ((EditText) findViewById(R.id.lastName)).getText().toString();
+        email = ((EditText) findViewById(R.id.email)).getText().toString();
+        mdp = ((EditText) findViewById(R.id.password)).getText().toString();
         confimMdp = ((EditText) findViewById(R.id.confirmPassword)).getText().toString();
 
-        if(loginEt.isEmpty() || emailEt.isEmpty() || mdpEt.isEmpty() || confimMdp.isEmpty()){
+        if(prenom.isEmpty() || nom.isEmpty() || email.isEmpty() || mdp.isEmpty() || confimMdp.isEmpty()){
             Toast.makeText(Accountcreation.this, "Vous devez renseigner tous les champs!", Toast.LENGTH_LONG).show();
-        } else if(!mdpEt.equals(confimMdp)) {
+        } else if(!mdp.equals(confimMdp)) {
             Toast.makeText(Accountcreation.this, "Vos mots de passe doivent être identiques", Toast.LENGTH_LONG).show();
         } else {
             HashMap postData = new HashMap();
 
-            postData.put("pseudo", loginEt);
-            postData.put("email", emailEt);
-            postData.put("mdp", mdpEt);
+            postData.put("prenom", prenom);
+            postData.put("nom", nom);
+            postData.put("email", email);
+            postData.put("mdp", mdp);
 
             PostResponseAsyncTask task1 = new PostResponseAsyncTask(Accountcreation.this, postData, new AsyncResponse() {
                 @Override

@@ -1,7 +1,8 @@
 <resources>
     <string name="app_name">HealthyMB</string>
     <string name="l_menu">Menu</string>
-    <string name="l_login">Pseudo</string>
+    <string name="l_firstName">Prénom</string>
+    <string name="l_lastName">Nom</string>
     <string name="l_password">Mot de passe</string>
     <string name="b_signin">S\'identifier</string>
     <string name="b_checkco">Vérifier votre connection</string>

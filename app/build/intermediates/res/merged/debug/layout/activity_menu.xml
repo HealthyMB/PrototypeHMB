@@ -38,6 +38,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:weightSum="2">
+
                 <ImageButton android:text="SPORT"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
@@ -45,12 +46,14 @@
                     android:background="@drawable/ic_home_gym"
                     android:textAlignment="center"
                     android:id="@+id/b_sport" />
+
                 <ImageButton android:text="DIET"
                     android:layout_column="1"
                     android:layout_width="match_parent"
                     android:layout_height="150dp"
                     android:background="@drawable/ic_home_diet"
-                    android:id="@+id/b_diet" />
+                    android:id="@+id/b_diet"
+                    android:onClick="onClick"/>
                 </TableRow>
 
             <TableRow

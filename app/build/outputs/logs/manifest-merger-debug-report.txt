@@ -1,87 +1,124 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\Cloud\OneDrive\Android\PrototypeHMB\app\src\main\AndroidManifest.xml:2:1-28:12
-	package
-		ADDED from D:\Cloud\OneDrive\Android\PrototypeHMB\app\src\main\AndroidManifest.xml:3:5-30
-		INJECTED from D:\Cloud\OneDrive\Android\PrototypeHMB\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Cloud\OneDrive\Android\PrototypeHMB\app\src\main\AndroidManifest.xml
-	android:versionName
-		INJECTED from D:\Cloud\OneDrive\Android\PrototypeHMB\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Cloud\OneDrive\Android\PrototypeHMB\app\src\main\AndroidManifest.xml
+ADDED from /Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/src/main/AndroidManifest.xml:2:1-32:12
 	xmlns:android
-		ADDED from D:\Cloud\OneDrive\Android\PrototypeHMB\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from /Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/src/main/AndroidManifest.xml:2:11-69
+	package
+		ADDED from /Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/src/main/AndroidManifest.xml:3:5-30
+		INJECTED from /Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from D:\Cloud\OneDrive\Android\PrototypeHMB\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Cloud\OneDrive\Android\PrototypeHMB\app\src\main\AndroidManifest.xml
+		INJECTED from /Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from D:\Cloud\OneDrive\Android\PrototypeHMB\app\src\main\AndroidManifest.xml:5:5-67
+ADDED from /Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/src/main/AndroidManifest.xml:5:5-67
 	android:name
-		ADDED from D:\Cloud\OneDrive\Android\PrototypeHMB\app\src\main\AndroidManifest.xml:5:22-64
+		ADDED from /Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/src/main/AndroidManifest.xml:5:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from D:\Cloud\OneDrive\Android\PrototypeHMB\app\src\main\AndroidManifest.xml:6:5-79
+ADDED from /Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/src/main/AndroidManifest.xml:6:5-79
 	android:name
-		ADDED from D:\Cloud\OneDrive\Android\PrototypeHMB\app\src\main\AndroidManifest.xml:6:22-76
+		ADDED from /Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/src/main/AndroidManifest.xml:6:22-76
 application
-ADDED from D:\Cloud\OneDrive\Android\PrototypeHMB\app\src\main\AndroidManifest.xml:8:5-26:19
-MERGED from [com.android.support:appcompat-v7:23.2.0] D:\Cloud\OneDrive\Android\PrototypeHMB\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-v4:23.2.0] D:\Cloud\OneDrive\Android\PrototypeHMB\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:animated-vector-drawable:23.2.0] D:\Cloud\OneDrive\Android\PrototypeHMB\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.0\AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-vector-drawable:23.2.0] D:\Cloud\OneDrive\Android\PrototypeHMB\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-v4:23.2.0] D:\Cloud\OneDrive\Android\PrototypeHMB\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-vector-drawable:23.2.0] D:\Cloud\OneDrive\Android\PrototypeHMB\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-v4:23.2.0] D:\Cloud\OneDrive\Android\PrototypeHMB\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.2.0] D:\Cloud\OneDrive\Android\PrototypeHMB\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:22:5-20
-	android:label
-		ADDED from D:\Cloud\OneDrive\Android\PrototypeHMB\app\src\main\AndroidManifest.xml:11:9-41
+ADDED from /Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/src/main/AndroidManifest.xml:8:5-30:19
+MERGED from [com.android.support:appcompat-v7:23.2.0] /Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:23.2.0] /Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.2.0] /Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.0/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.2.0] /Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.0/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.2.0] /Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:23.2.0] /Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.0/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.2.0] /Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.2.0] /Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.2.0] /Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/design/23.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.2.0] /Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.2.0] /Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:23.2.0] /Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.2.0] /Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.0/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.2.0] /Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.0/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.2.0] /Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:23.2.0] /Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.0/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.2.0] /Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.2.0] /Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/AndroidManifest.xml:22:5-20
 	android:supportsRtl
-		ADDED from D:\Cloud\OneDrive\Android\PrototypeHMB\app\src\main\AndroidManifest.xml:12:9-35
+		ADDED from /Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/src/main/AndroidManifest.xml:11:9-41
 	android:allowBackup
-		ADDED from D:\Cloud\OneDrive\Android\PrototypeHMB\app\src\main\AndroidManifest.xml:9:9-35
+		ADDED from /Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/src/main/AndroidManifest.xml:9:9-35
 	android:icon
-		ADDED from D:\Cloud\OneDrive\Android\PrototypeHMB\app\src\main\AndroidManifest.xml:10:9-45
+		ADDED from /Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/src/main/AndroidManifest.xml:10:9-45
 	android:theme
-		ADDED from D:\Cloud\OneDrive\Android\PrototypeHMB\app\src\main\AndroidManifest.xml:13:9-40
+		ADDED from /Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/src/main/AndroidManifest.xml:13:9-40
 activity#efrei.healthymb.Menu
-ADDED from D:\Cloud\OneDrive\Android\PrototypeHMB\app\src\main\AndroidManifest.xml:14:9-42
+ADDED from /Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/src/main/AndroidManifest.xml:14:9-42
 	android:name
-		ADDED from D:\Cloud\OneDrive\Android\PrototypeHMB\app\src\main\AndroidManifest.xml:14:19-39
+		ADDED from /Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/src/main/AndroidManifest.xml:14:19-39
 activity#efrei.healthymb.Authentification
-ADDED from D:\Cloud\OneDrive\Android\PrototypeHMB\app\src\main\AndroidManifest.xml:15:9-21:20
+ADDED from /Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/src/main/AndroidManifest.xml:15:9-21:20
 	android:name
-		ADDED from D:\Cloud\OneDrive\Android\PrototypeHMB\app\src\main\AndroidManifest.xml:15:19-51
+		ADDED from /Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/src/main/AndroidManifest.xml:15:19-51
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from D:\Cloud\OneDrive\Android\PrototypeHMB\app\src\main\AndroidManifest.xml:16:13-20:29
+ADDED from /Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/src/main/AndroidManifest.xml:16:13-20:29
 action#android.intent.action.MAIN
-ADDED from D:\Cloud\OneDrive\Android\PrototypeHMB\app\src\main\AndroidManifest.xml:17:17-69
+ADDED from /Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/src/main/AndroidManifest.xml:17:17-69
 	android:name
-		ADDED from D:\Cloud\OneDrive\Android\PrototypeHMB\app\src\main\AndroidManifest.xml:17:25-66
+		ADDED from /Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/src/main/AndroidManifest.xml:17:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\Cloud\OneDrive\Android\PrototypeHMB\app\src\main\AndroidManifest.xml:19:17-77
+ADDED from /Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/src/main/AndroidManifest.xml:19:17-77
 	android:name
-		ADDED from D:\Cloud\OneDrive\Android\PrototypeHMB\app\src\main\AndroidManifest.xml:19:27-74
+		ADDED from /Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/src/main/AndroidManifest.xml:19:27-74
 activity#efrei.healthymb.Formulaire
-ADDED from D:\Cloud\OneDrive\Android\PrototypeHMB\app\src\main\AndroidManifest.xml:22:9-23:20
+ADDED from /Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/src/main/AndroidManifest.xml:22:9-48
 	android:name
-		ADDED from D:\Cloud\OneDrive\Android\PrototypeHMB\app\src\main\AndroidManifest.xml:22:19-45
+		ADDED from /Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/src/main/AndroidManifest.xml:22:19-45
 activity#efrei.healthymb.Accountcreation
-ADDED from D:\Cloud\OneDrive\Android\PrototypeHMB\app\src\main\AndroidManifest.xml:24:9-25:20
+ADDED from /Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/src/main/AndroidManifest.xml:23:9-53
 	android:name
-		ADDED from D:\Cloud\OneDrive\Android\PrototypeHMB\app\src\main\AndroidManifest.xml:24:19-50
+		ADDED from /Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/src/main/AndroidManifest.xml:23:19-50
+activity#efrei.healthymb.Repas
+ADDED from /Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/src/main/AndroidManifest.xml:24:9-43
+	android:name
+		ADDED from /Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/src/main/AndroidManifest.xml:24:19-40
+activity#efrei.healthymb.Petit_Dejeuner
+ADDED from /Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/src/main/AndroidManifest.xml:25:9-52
+	android:name
+		ADDED from /Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/src/main/AndroidManifest.xml:25:19-49
+activity#efrei.healthymb.Viennoiserie
+ADDED from /Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/src/main/AndroidManifest.xml:26:9-29:68
+	android:label
+		ADDED from /Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/src/main/AndroidManifest.xml:28:13-64
+	android:theme
+		ADDED from /Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/src/main/AndroidManifest.xml:29:13-56
+	android:name
+		ADDED from /Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/src/main/AndroidManifest.xml:27:13-41
 uses-sdk
-INJECTED from D:\Cloud\OneDrive\Android\PrototypeHMB\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:appcompat-v7:23.2.0] D:\Cloud\OneDrive\Android\PrototypeHMB\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:23.2.0] D:\Cloud\OneDrive\Android\PrototypeHMB\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:animated-vector-drawable:23.2.0] D:\Cloud\OneDrive\Android\PrototypeHMB\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.0\AndroidManifest.xml:5:5-44
-MERGED from [com.android.support:support-vector-drawable:23.2.0] D:\Cloud\OneDrive\Android\PrototypeHMB\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\AndroidManifest.xml:5:5-43
-MERGED from [com.android.support:support-v4:23.2.0] D:\Cloud\OneDrive\Android\PrototypeHMB\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-vector-drawable:23.2.0] D:\Cloud\OneDrive\Android\PrototypeHMB\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\AndroidManifest.xml:5:5-43
-MERGED from [com.android.support:support-v4:23.2.0] D:\Cloud\OneDrive\Android\PrototypeHMB\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.2.0] D:\Cloud\OneDrive\Android\PrototypeHMB\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:20:5-43
-	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:23.2.0] D:\Cloud\OneDrive\Android\PrototypeHMB\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\AndroidManifest.xml:23:9-75
+INJECTED from /Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:23.2.0] /Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:23.2.0] /Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:animated-vector-drawable:23.2.0] /Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.2.0] /Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.0/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.2.0] /Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:23.2.0] /Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.0/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.2.0] /Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.2.0] /Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.2.0] /Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/design/23.2.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.2.0] /Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.2.0] /Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.2.0] /Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:23.2.0] /Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:animated-vector-drawable:23.2.0] /Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.2.0] /Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.0/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.2.0] /Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:23.2.0] /Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.0/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.2.0] /Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.2.0] /Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/AndroidManifest.xml:20:5-43
 	android:targetSdkVersion
-		INJECTED from D:\Cloud\OneDrive\Android\PrototypeHMB\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Cloud\OneDrive\Android\PrototypeHMB\app\src\main\AndroidManifest.xml
+		INJECTED from /Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\Cloud\OneDrive\Android\PrototypeHMB\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Cloud\OneDrive\Android\PrototypeHMB\app\src\main\AndroidManifest.xml
+		INJECTED from /Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.2.0] /Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/AndroidManifest.xml:23:9-75

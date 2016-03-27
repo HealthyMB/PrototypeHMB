@@ -25,10 +25,14 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="efrei.healthymb.Formulaire" >
-        </activity>
-        <activity android:name="efrei.healthymb.Accountcreation" >
-        </activity>
+        <activity android:name="efrei.healthymb.Formulaire" />
+        <activity android:name="efrei.healthymb.Accountcreation" />
+        <activity android:name="efrei.healthymb.Repas" />
+        <activity android:name="efrei.healthymb.Petit_Dejeuner" />
+        <activity
+            android:name="efrei.healthymb.Viennoiserie"
+            android:label="@string/title_activity_viennoiserie"
+            android:theme="@style/AppTheme.NoActionBar" />
     </application>
 
 </manifest>

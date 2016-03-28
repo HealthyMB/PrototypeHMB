@@ -17,7 +17,7 @@ public class Authentification extends AppCompatActivity implements View.OnClickL
 
     private String loginEt;
     private String mdpEt;
-    private String messagerror = "Error";
+    private String messagerror = "Erreur de login ou mot de passe";
 
 
     @Override

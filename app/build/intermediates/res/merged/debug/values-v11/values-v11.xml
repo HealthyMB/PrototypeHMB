@@ -158,4 +158,10 @@
         <item name="android:actionModePasteDrawable">?actionModePasteDrawable</item>
     </style>
     <style name="Platform.Widget.AppCompat.Spinner" parent="android:Widget.Holo.Spinner"/>
+    <style name="Test" parent="@style/_Test"/>
+    <style name="_Test" parent="android:Theme.Holo.Light">
+
+    <item name="android:listChoiceIndicatorMultiple">@drawable/test_btn_check_holo_light</item>
+
+  </style>
 </resources>

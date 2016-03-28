@@ -223,7 +223,9 @@
     <string name="creerCompte">Créer un compte</string>
     <string name="feminin">Feminin</string>
     <string name="generalites">Généralités</string>
-    <string name="l_login">Pseudo</string>
+    <string name="l_firstName">Prénom</string>
+    <string name="l_lastName">Nom</string>
+    <string name="l_login">Email</string>
     <string name="l_menu">Menu</string>
     <string name="l_password">Mot de passe</string>
     <string name="masculin">Masculin</string>

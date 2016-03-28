@@ -3,6 +3,7 @@ package efrei.healthymb;
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.CheckBox;
@@ -10,7 +11,15 @@ import android.widget.SeekBar;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import java.text.Normalizer;
+import java.util.HashMap;
+
+import async.AsyncResponse;
+import async.PostResponseAsyncTask;
+
 public class Formulaire extends AppCompatActivity {
+
+    private int idUser;
     private CheckBox masculin, feminin;
     private CheckBox poidsBox, physiqueBox, muscuBox;
     private Button valider;
@@ -23,6 +32,8 @@ public class Formulaire extends AppCompatActivity {
         setContentView(R.layout.activity_formulaire);
         initializeVariables();
         initializeListener();
+        initializeData();
+
     }
 
     private void initializeVariables() {
@@ -38,6 +49,9 @@ public class Formulaire extends AppCompatActivity {
         tailleValeur = (TextView) findViewById(R.id.tailleValeurId);
         poidsValeur = (TextView) findViewById(R.id.poidsValeurId);
         ageValeur = (TextView) findViewById(R.id.ageValeurId);
+
+        Bundle extras = getIntent().getExtras();
+        idUser = Integer.parseInt(extras.getString("idUser"));
     }
 
     private void initializeListener() {
@@ -45,9 +59,9 @@ public class Formulaire extends AppCompatActivity {
         masculin.setOnClickListener(new CheckBoxListener());
         feminin.setOnClickListener(new CheckBoxListener());
 
-        tailleBar.setOnSeekBarChangeListener(new seekBarListener(tailleValeur));
-        poidsBar.setOnSeekBarChangeListener(new seekBarListener(poidsValeur));
-        ageBar.setOnSeekBarChangeListener(new seekBarListener(ageValeur));
+        tailleBar.setOnSeekBarChangeListener(new seekBarListener(tailleValeur, " cm"));
+        poidsBar.setOnSeekBarChangeListener(new seekBarListener(poidsValeur, " kg"));
+        ageBar.setOnSeekBarChangeListener(new seekBarListener(ageValeur, " ans"));
 
         valider.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -59,9 +73,9 @@ public class Formulaire extends AppCompatActivity {
                 Boolean perdrePoids = poidsBox.isChecked();
                 Boolean physique = physiqueBox.isChecked();
                 Boolean muscu = muscuBox.isChecked();
-                int taille = Integer.parseInt(String.valueOf(tailleValeur.getText().charAt(0)));
-                int poids = Integer.parseInt(String.valueOf(poidsValeur.getText().charAt(0)));
-                int age = Integer.parseInt(String.valueOf(ageValeur.getText().charAt(0)));
+                int taille = Integer.parseInt(String.valueOf(tailleValeur.getText()).split(" ") [0]);
+                int poids = Integer.parseInt(String.valueOf(poidsValeur.getText()).split(" ") [0]);
+                int age = Integer.parseInt(String.valueOf(ageValeur.getText()).split(" ") [0]);
 
                 // Vérification que toutes les données nécessaires sont bien saisis :
                 if (!isMasculin && !isFeminin) {
@@ -75,11 +89,61 @@ public class Formulaire extends AppCompatActivity {
                 } else if (!perdrePoids && !physique && !muscu) {
                     Toast.makeText(Formulaire.this, "Vous devez renseigner au moins un objectif!", Toast.LENGTH_LONG).show();
                 } else {
-                    Intent intent = new Intent(Formulaire.this, Menu.class);
-                    startActivity(intent);
+                    HashMap postData = new HashMap();
+
+                    postData.put("idUser", String.valueOf(idUser));
+                    postData.put("genre", isMasculin ? "masculin" : "feminin");
+                    postData.put("taille", String.valueOf(taille));
+                    postData.put("poids", String.valueOf(poids));
+                    postData.put("age", String.valueOf(age));
+
+                    PostResponseAsyncTask task1 = new PostResponseAsyncTask(Formulaire.this, postData, new AsyncResponse() {
+                        @Override
+                        public void processFinish(String s) {
+                            if(s.contains("success")) {
+                                Intent intent = new Intent(Formulaire.this, Profil.class);
+                                intent.putExtra("idUser", String.valueOf(idUser));
+                                startActivity(intent);
+                            } else {
+                                Toast.makeText(Formulaire.this, "Connection failed!", Toast.LENGTH_LONG).show();
+                            }
+                        }
+                    });
+                    task1.execute("http://healthymb.no-ip.org:8080/PA8/formulaire.php");
+
                 }
             }
         });
+    }
+
+    private void initializeData() {
+        HashMap postData = new HashMap();
+
+        postData.put("idUser", String.valueOf(idUser));
+
+        PostResponseAsyncTask task1 = new PostResponseAsyncTask(Formulaire.this, postData, new AsyncResponse() {
+            @Override
+            public void processFinish(String s) {
+                if (s.contains("success")) {
+                    String data[] = s.split(" ");
+
+                    if(data[1].equals("1")) {
+                        masculin.setChecked(true);
+                    } else {
+                        feminin.setChecked(true);
+                    }
+
+                    tailleBar.setProgress(Integer.parseInt(data[2]));
+                    poidsBar.setProgress(Integer.parseInt(data[3]));
+                    ageBar.setProgress(Integer.parseInt(data[4]));
+
+                    tailleValeur.setText(data[2] + " cm");
+                    poidsValeur.setText(data[3] + " kg");
+                    ageValeur.setText(data[4] + " ans");
+                }
+            }
+        });
+        task1.execute("http://healthymb.no-ip.org:8080/PA8/initFormulaire.php");
     }
 
 
@@ -98,9 +162,9 @@ public class Formulaire extends AppCompatActivity {
         private TextView textView;
         private String unite;
 
-        public seekBarListener(TextView textView) {
+        public seekBarListener(TextView textView, String unite) {
             this.textView = textView;
-            this.unite = textView.getText().toString().substring(1);
+            this.unite = unite;
         }
 
         @Override

@@ -57,6 +57,7 @@ public class Accountcreation extends AppCompatActivity implements View.OnClickLi
                     if (s.contains("success")) {
                         Toast.makeText(Accountcreation.this, "Compte créer", Toast.LENGTH_LONG).show();
                         Intent in = new Intent(Accountcreation.this, Formulaire.class);
+                        in.putExtra("idUser",s.split(" ")[1]);
                         startActivity(in);
                     } else if(s.contains("Error1")){
                         Toast.makeText(Accountcreation.this, "Votre email est déjà utilisé!", Toast.LENGTH_LONG).show();

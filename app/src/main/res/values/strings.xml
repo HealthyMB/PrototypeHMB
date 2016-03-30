@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">HealthyMB</string>
     <string name="l_menu">Menu</string>
+
     <string name="l_login">Email</string>
     <string name="l_firstName">Prénom</string>
     <string name="l_lastName">Nom</string>
@@ -9,6 +10,8 @@
     <string name="b_checkco">Vérifier votre connection</string>
     <string name="b_signup">S\'enregister</string>
     <string name="creerCompte">Créer un compte</string>
+    <string name="confirmMdp">Confirmez le mot de passe</string>
+
     <string name="generalites">Généralités</string>
     <string name="sexe">Sexe :</string>
     <string name="masculin">Masculin</string>
@@ -21,10 +24,26 @@
     <string name="physique">Se maintenir physiquement :</string>
     <string name="muscu">Se renforcer musculairement :</string>
     <string name="valider">Valider</string>
-    <string name="confirmMdp">Confirmez le mot de passe</string>
+
+
     <string name="sexeT">" Masculin"</string>
     <string name="tailleT">" 1m82"</string>
     <string name="poidsT">" 80kg"</string>
     <string name="ageT">" 22 ans"</string>
     <string name="modifier">modifier</string>
+
+
+    <string name="nomSeance">Long Titre à la Richti</string>
+    <string name="dureeSeance">10 min</string>
+    <string name="difficulteSeance">3/5</string>
+    <string name="dureeSeanceT">Durée :</string>
+    <string name="difficulteSeanceT">Difficulté :</string>
+    <string name="listeSeance">Liste des séances disponibles</string>
+    <string name="nomExo">Pompe</string>
+    <string name="nbRepetition">Nombre de répétitions :</string>
+    <string name="nbRepetitionValue">40</string>
+    <string name="pauseT">Pause : </string>
+    <string name="descriptionT">Description : </string>
+    <string name="description">blablablablablablablablablablablablablablablablablablablablablablablablablablabla</string>
+
 </resources>

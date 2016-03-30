@@ -32,28 +32,28 @@
         "source": "D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_action_mode_close_item_material.xml"
     },
     {
-        "merged": "C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
-        "source": "C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_alert_dialog_material.xml"
-    },
-    {
         "merged": "C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
         "source": "C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_alert_dialog_material.xml"
     },
     {
         "merged": "C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
         "source": "C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
     },
     {
-        "merged": "D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
-        "source": "D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\notification_template_lines.xml"
+        "merged": "C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\notification_media_action.xml"
     },
     {
         "merged": "D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
         "source": "D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
     },
     {
-        "merged": "C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
-        "source": "C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\notification_media_action.xml"
+        "merged": "D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\notification_template_lines.xml"
     },
     {
         "merged": "D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
@@ -150,6 +150,10 @@
     {
         "merged": "C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
         "source": "C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sportseance.xml",
+        "source": "C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\src\\main\\res\\layout\\activity_sportseance.xml"
     },
     {
         "merged": "D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
@@ -316,6 +320,14 @@
         "source": "D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\select_dialog_singlechoice_material.xml"
     },
     {
+        "merged": "C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\seance.xml",
+        "source": "C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\src\\main\\res\\layout\\seance.xml"
+    },
+    {
+        "merged": "C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\exo.xml",
+        "source": "C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\src\\main\\res\\layout\\exo.xml"
+    },
+    {
         "merged": "D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
         "source": "D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\select_dialog_multichoice_material.xml"
     },
@@ -454,6 +466,10 @@
     {
         "merged": "C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
         "source": "C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sportexercice.xml",
+        "source": "C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\src\\main\\res\\layout\\activity_sportexercice.xml"
     },
     {
         "merged": "D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",

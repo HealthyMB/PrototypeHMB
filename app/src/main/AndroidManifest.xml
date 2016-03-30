@@ -13,17 +13,23 @@
         android:theme="@style/AppTheme">
         <activity android:name=".Menu" />
         <activity android:name=".Authentification">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
 
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
         </activity>
         <activity android:name=".Formulaire">
         </activity>
         <activity android:name=".Accountcreation">
         </activity>
         <activity android:name=".Profil">
+        </activity>
+        <activity android:name="sport.SportSeance"
+            android:configChanges="orientation|screenSize" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="sport.SportExercice">
         </activity>
     </application>
 

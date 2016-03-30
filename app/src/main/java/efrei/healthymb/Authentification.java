@@ -70,7 +70,6 @@ public class Authentification extends AppCompatActivity implements View.OnClickL
                 }
             }
         });
-
     }
 
     @Override

@@ -56,8 +56,13 @@ public class Formulaire extends AppCompatActivity {
 
     private void initializeListener() {
 
-        masculin.setOnClickListener(new CheckBoxListener());
-        feminin.setOnClickListener(new CheckBoxListener());
+        masculin.setOnClickListener(new CheckBoxListenerGenre());
+        feminin.setOnClickListener(new CheckBoxListenerGenre());
+
+        poidsBox.setOnClickListener(new CheckBoxListenerObjectif());
+        physiqueBox.setOnClickListener(new CheckBoxListenerObjectif());
+        muscuBox.setOnClickListener(new CheckBoxListenerObjectif());
+
 
         tailleBar.setOnSeekBarChangeListener(new seekBarListener(tailleValeur, " cm"));
         poidsBar.setOnSeekBarChangeListener(new seekBarListener(poidsValeur, " kg"));
@@ -147,12 +152,23 @@ public class Formulaire extends AppCompatActivity {
     }
 
 
-    class CheckBoxListener implements View.OnClickListener {
+    class CheckBoxListenerGenre implements View.OnClickListener {
         @Override
         public void onClick(View v) {
             // On s'assure qu'une seule case peut-être cochée à la fois
             masculin.setChecked(false);
             feminin.setChecked(false);
+            ((CheckBox) v).setChecked(true);
+        }
+    }
+
+    class CheckBoxListenerObjectif implements View.OnClickListener {
+        @Override
+        public void onClick(View v) {
+            // On s'assure qu'une seule case peut-être cochée à la fois
+            poidsBox.setChecked(false);
+            physiqueBox.setChecked(false);
+            muscuBox.setChecked(false);
             ((CheckBox) v).setChecked(true);
         }
     }

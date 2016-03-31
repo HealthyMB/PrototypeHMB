@@ -24,6 +24,9 @@
         <activity android:name=".Repas" />
         <activity android:name=".Petit_Dejeuner" />
         <activity android:name=".Viennoiserie" />
+        <activity android:name=".Dejeuner" />
+        <activity android:name=".Diner" />
+        <activity android:name=".Gouter"/>
     </application>
 
 </manifest>

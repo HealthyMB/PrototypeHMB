@@ -38,5 +38,8 @@
     <string name="d_brioche">Brioche :</string>
     <string name="d_pain_lait">Pain au lait :</string>
     <string name="d_modifier">Modifier</string>
+    <string name="title_activity_dejeuner">Dejeuner</string>
+    <string name="title_activity_diner">Diner</string>
+    <string name="title_activity_gouter">Gouter</string>
 
 </resources>

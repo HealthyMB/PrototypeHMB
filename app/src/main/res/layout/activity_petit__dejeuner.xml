@@ -86,7 +86,8 @@
                     android:id="@+id/d_infusion"
                     android:backgroundTint="@android:color/black"
                     android:clickable="true"
-                    android:onClick="onClick"/>
+                    android:onClick="onClick"
+                    android:baselineAlignBottom="false" />
 
                 <ImageButton android:text="@string/d_gouter"
                     android:layout_column="1"

@@ -26,6 +26,21 @@ public class Repas extends AppCompatActivity implements View.OnClickListener{
                 startActivity(intent);
             }
             break;
+            case R.id.d_dej: {
+                Intent intent = new Intent(getApplicationContext(), Dejeuner.class);
+                startActivity(intent);
+            }
+            break;
+            case R.id.d_diner: {
+                Intent intent = new Intent(getApplicationContext(), Diner.class);
+                startActivity(intent);
+            }
+            break;
+            case R.id.d_gouter: {
+                Intent intent = new Intent(getApplicationContext(), Gouter.class);
+                startActivity(intent);
+            }
+            break;
 
             default:
                 break;

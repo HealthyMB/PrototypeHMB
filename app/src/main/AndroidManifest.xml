@@ -11,26 +11,25 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".Menu" />
-        <activity android:name=".Authentification">
-
-        </activity>
-        <activity android:name=".Formulaire">
-        </activity>
-        <activity android:name=".Accountcreation">
-        </activity>
-        <activity android:name=".Profil">
-        </activity>
-        <activity android:name="sport.SportSeance"
-            android:configChanges="orientation|screenSize" >
+        <activity android:name=".Authentification"
+            android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="sport.SportExercice">
+        <activity android:name=".Formulaire" />
+        <activity android:name=".Accountcreation" />
+        <activity android:name=".Profil" />
+        <activity
+            android:name="sport.SportSeance"
+            android:configChanges="orientation|screenSize">
         </activity>
+        <activity android:name="sport.SportExercice" />
+        <activity
+            android:name=".MenuActivity"
+            android:label="@string/title_activity_menu"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>

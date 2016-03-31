@@ -19,8 +19,7 @@ import java.util.HashMap;
 import async.AsyncResponse;
 import async.PostResponseAsyncTask;
 
-public class Authentification extends AppCompatActivity implements View.OnClickListener {
-
+public class Authentification extends AppCompatActivity {
     private EditText emailEt;
     private EditText mdpEt;
     private CheckBox memorizeInfo;
@@ -72,11 +71,11 @@ public class Authentification extends AppCompatActivity implements View.OnClickL
         });
     }
 
-    @Override
+   /* @Override
     public void onClick(View v) {
         switch (v.getId()) {
 
-            case R.id.b_checkco:
+           /* case R.id.b_checkco:
             {
                 TextView e = (TextView) findViewById(R.id.L_Co);
                 ConnectivityManager connMgr = (ConnectivityManager) getSystemService(Context.CONNECTIVITY_SERVICE);
@@ -101,6 +100,21 @@ public class Authentification extends AppCompatActivity implements View.OnClickL
                 break;
         }
     }
-
+*/
+   @Override
+   public void onWindowFocusChanged(boolean hasFocus) {
+       super.onWindowFocusChanged(hasFocus);
+       if (hasFocus) {
+           if (android.os.Build.VERSION.SDK_INT >= 19) {
+               getWindow().getDecorView().setSystemUiVisibility(
+                       View.SYSTEM_UI_FLAG_LAYOUT_STABLE |
+                               View.SYSTEM_UI_FLAG_LAYOUT_HIDE_NAVIGATION |
+                               View.SYSTEM_UI_FLAG_LAYOUT_FULLSCREEN |
+                               View.SYSTEM_UI_FLAG_HIDE_NAVIGATION |
+                               View.SYSTEM_UI_FLAG_FULLSCREEN |
+                               View.SYSTEM_UI_FLAG_IMMERSIVE_STICKY);
+           }
+       }
+   }
 
 }

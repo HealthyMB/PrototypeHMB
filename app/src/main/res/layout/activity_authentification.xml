@@ -103,14 +103,22 @@
 
         </LinearLayout>
 
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:id="@+id/l_failed"
+            android:layout_gravity="center_horizontal"
+            android:textColor="#c20000" />
+
         <Button
-            android:layout_width="146dp"
-            android:layout_height="41dp"
+            android:layout_width="140dp"
+            android:layout_height="40dp"
             android:id="@+id/b_signin"
             android:onClick="onClick"
             android:layout_gravity="center"
             android:background="@drawable/login_button"
-            android:layout_marginTop="20dp"
+            android:layout_marginTop="10dp"
             android:singleLine="true" />
 
         <TextView
@@ -122,14 +130,6 @@
             android:onClick="onClick"
             android:layout_gravity="center"
             android:layout_marginTop="20dp" />
-
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:textAppearance="?android:attr/textAppearanceMedium"
-            android:id="@+id/l_failed"
-            android:layout_gravity="center_horizontal"
-            android:textColor="#f90606" />
 
     </LinearLayout>
 </ScrollView>

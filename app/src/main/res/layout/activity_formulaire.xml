@@ -29,7 +29,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="5dp"
-            android:layout_marginBottom="5dp">
+            android:layout_marginBottom="10dp">
 
             <TextView
                 android:layout_width="wrap_content"
@@ -38,25 +38,41 @@
                 android:id="@+id/sexeId"
                 android:textSize="20dp" />
 
-            <CheckBox
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="@string/masculin"
-                android:id="@+id/masculinId"
-                android:button="@null"
-                android:drawableRight="?android:attr/listChoiceIndicatorMultiple"
-                android:visibility="visible"
-                android:layout_marginLeft="10dp"
-                android:layout_marginRight="5dp" />
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:paddingLeft="10dp">
 
-            <CheckBox
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="@string/feminin"
-                android:id="@+id/femininId"
-                android:button="@null"
-                android:drawableRight="?android:attr/listChoiceIndicatorMultiple"
-                android:layout_gravity="right" />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/masculin"
+                    android:id="@+id/textView3" />
+
+                <CheckBox
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/masculinId"
+                    android:button="@null"
+                    android:background="@drawable/test_btn_check_holo_light"
+                    android:visibility="visible"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/feminin"
+                    android:id="@+id/textView4"
+                    android:paddingLeft="10dp" />
+
+                <CheckBox
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/femininId"
+                    android:button="@null"
+                    android:background="@drawable/test_btn_check_holo_light"
+                    android:layout_gravity="right" />
+            </LinearLayout>
 
 
         </LinearLayout>
@@ -183,64 +199,83 @@
             android:layout_marginTop="15dp" />
 
         <LinearLayout
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content">
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
 
-            <CheckBox
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="@string/perdrePoids"
-                android:id="@+id/poidsBoxId"
-                android:button="@null"
-                android:drawableRight="?android:attr/listChoiceIndicatorMultiple"
-                android:layout_gravity="right"
-                android:layout_marginTop="3dp"
-                android:layout_marginBottom="3dp" />
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginBottom="5dp">
 
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/perdrePoids"
+                    android:id="@+id/textView5" />
+
+                <CheckBox
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/poidsBoxId"
+                    android:button="@null"
+                    android:background="@drawable/test_btn_check_holo_light"/>
+            </LinearLayout>
         </LinearLayout>
 
-        <LinearLayout
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content">
 
-            <CheckBox
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="5dp">
+
+            <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="@string/physique"
-                android:button="@null"
-                android:drawableRight="?android:attr/listChoiceIndicatorMultiple"
-                android:id="@+id/physiqueBoxId"
-                android:layout_gravity="right"
-                android:layout_marginTop="3dp"
-                android:layout_marginBottom="3dp"
-                android:allowUndo="false" />
-
-        </LinearLayout>
-
-        <LinearLayout
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content">
+                android:id="@+id/textView6" />
 
             <CheckBox
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="@string/muscu"
-                android:id="@+id/muscuBoxId"
                 android:button="@null"
-                android:drawableRight="?android:attr/listChoiceIndicatorMultiple"
-                android:layout_gravity="right"
-                android:layout_marginBottom="3dp"
-                android:layout_marginTop="3dp" />
-
+                android:background="@drawable/test_btn_check_holo_light"
+                android:id="@+id/physiqueBoxId"
+                android:allowUndo="false" />
         </LinearLayout>
 
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="5dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/muscu"
+                android:id="@+id/textView7" />
+
+            <CheckBox
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/muscuBoxId"
+                android:button="@null"
+                android:background="@drawable/test_btn_check_holo_light"
+                android:checked="false" />
+        </LinearLayout>
+
+
         <Button
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="@string/valider"
+            android:layout_width="140dp"
+            android:layout_height="40dp"
             android:id="@+id/validerId"
             android:layout_gravity="center_horizontal"
-            android:layout_marginTop="20dp" />
+            android:layout_marginTop="20dp"
+            android:background="@drawable/valider_button"
+            android:singleLine="true" />
 
 
     </LinearLayout>

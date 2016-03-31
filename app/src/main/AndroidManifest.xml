@@ -7,16 +7,16 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@mipmap/ic_launcherhb"
         android:label="@string/app_name"
+        android:icon="@mipmap/ic_launcherhb"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name=".Authentification">
+            android:name=".Authentification"
+            android:theme="@style/AppTheme.NoActionBar"
+            >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
@@ -25,10 +25,9 @@
         <activity
             android:name=".MenuActivity"
             android:label="@string/title_activity_menu"
-            android:theme="@style/AppTheme.NoActionBar"
-            />
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".Profil"></activity>
+
     </application>
-
-
 
 </manifest>

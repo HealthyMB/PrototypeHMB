@@ -12,6 +12,7 @@
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 
     <application
+        android:name="efrei.healthymb.syntheseRepas"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcherhb"
         android:label="@string/app_name"
@@ -29,9 +30,13 @@
         <activity android:name="efrei.healthymb.Accountcreation" />
         <activity android:name="efrei.healthymb.Repas" />
         <activity android:name="efrei.healthymb.Petit_Dejeuner" />
+        <activity android:name="efrei.healthymb.Viennoiserie" />
+        <activity android:name="efrei.healthymb.Dejeuner" />
+        <activity android:name="efrei.healthymb.Diner" />
+        <activity android:name="efrei.healthymb.Gouter" />
         <activity
-            android:name="efrei.healthymb.Viennoiserie"
-            android:label="@string/title_activity_viennoiserie"
+            android:name="efrei.healthymb.resumeRepas"
+            android:label="@string/title_activity_resume_repas"
             android:theme="@style/AppTheme.NoActionBar" />
     </application>
 

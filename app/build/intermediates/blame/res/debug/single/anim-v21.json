@@ -1,10 +1,26 @@
 [
     {
+        "merged": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/design/23.2.0/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/design/23.2.0/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/design/23.2.0/res/anim-v21/design_bottom_sheet_slide_in.xml"
     },
     {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/design/23.2.0/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/design/23.2.0/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/design/23.2.0/res/anim-v21/design_bottom_sheet_slide_out.xml"
     }
 ]

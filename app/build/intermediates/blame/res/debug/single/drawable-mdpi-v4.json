@@ -1,5 +1,17 @@
 [
     {
+        "merged": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_go_search_api_material.png",
+        "source": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/generated/res/pngs/debug/drawable-mdpi/abc_ic_go_search_api_material.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_home_viennoiserie.png",
+        "source": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/src/main/res/drawable-mdpi/ic_home_viennoiserie.png"
+    },
+    {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_home_petit_dej.png",
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/src/main/res/drawable-mdpi/ic_home_petit_dej.png"
     },
@@ -16,16 +28,20 @@
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/src/main/res/drawable-mdpi/ic_home_gym.png"
     },
     {
-        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_checkbox_unchecked_mtrl.png",
-        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\abc_btn_checkbox_unchecked_mtrl.png"
-    },
-    {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
+        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_checkbox_unchecked_mtrl.png",
+        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\abc_btn_checkbox_unchecked_mtrl.png"
+    },
+    {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_go_search_api_material.png",
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\abc_ic_go_search_api_material.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_star_half_black_36dp.png",
+        "source": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_ic_star_half_black_36dp.png"
     },
     {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
@@ -36,44 +52,68 @@
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_list_divider_mtrl_alpha.9.png"
     },
     {
+        "merged": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_radio_off_mtrl.png",
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/generated/res/pngs/debug/drawable-mdpi/abc_btn_radio_off_mtrl.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_home_profil.png",
+        "source": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/src/main/res/drawable-mdpi/ic_home_profil.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_textfield_default_mtrl_alpha.9.png",
+        "source": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_pressed_holo_dark.9.png",
+        "source": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_list_pressed_holo_dark.9.png"
     },
     {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
+        "merged": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_menu_paste_material.png",
+        "source": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/generated/res/pngs/debug/drawable-mdpi/abc_ic_menu_paste_material.png"
+    },
+    {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_cut_material.png",
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\abc_ic_menu_cut_material.png"
-    },
-    {
-        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
-        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
-    },
-    {
-        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png",
-        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_selector_disabled_holo_light.9.png",
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_list_selector_disabled_holo_light.9.png"
     },
     {
-        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_focused_holo.9.png",
-        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_list_focused_holo.9.png"
+        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
-        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
-        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png"
+        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
     },
     {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png",
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png"
     },
     {
+        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_pressed_holo_dark.9.png",
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
@@ -84,8 +124,16 @@
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
     },
     {
+        "merged": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_star_black_16dp.png",
+        "source": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_ic_star_black_16dp.png"
+    },
+    {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_selectall_material.png",
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\abc_ic_menu_selectall_material.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_menu_overflow_material.png",
@@ -96,6 +144,10 @@
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
     },
     {
+        "merged": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_home_fruit.png",
+        "source": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/src/main/res/drawable-mdpi/ic_home_fruit.png"
+    },
+    {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_checkbox_checked_mtrl.png",
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\abc_btn_checkbox_checked_mtrl.png"
     },
@@ -104,12 +156,36 @@
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_dark.9.png"
     },
     {
-        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
-        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+        "merged": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_checkbox_unchecked_mtrl.png",
+        "source": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/generated/res/pngs/debug/drawable-mdpi/abc_btn_checkbox_unchecked_mtrl.png"
     },
     {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_home_dejeuner.png",
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/src/main/res/drawable-mdpi/ic_home_dejeuner.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_checkbox_checked_mtrl.png",
+        "source": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/generated/res/pngs/debug/drawable-mdpi/abc_btn_checkbox_checked_mtrl.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_star_half_black_16dp.png",
+        "source": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
     },
     {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_pressed_holo_dark.9.png",
@@ -120,16 +196,24 @@
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
     },
     {
-        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
-        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+        "merged": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_home_fruit.png",
+        "source": "/Users/lassinacamara/Desktop/PrototypeHMB/app/src/main/res/drawable-mdpi/ic_home_fruit.png"
     },
     {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_half_black_36dp.png",
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_36dp.png"
     },
     {
+        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png",
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_clear_material.png",
@@ -144,32 +228,56 @@
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/generated/res/pngs/debug/drawable-mdpi/abc_ic_ab_back_material.png"
     },
     {
-        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_home_profil.png",
-        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/src/main/res/drawable-mdpi/ic_home_profil.png"
+        "merged": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_switch_track_mtrl_alpha.9.png",
+        "source": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_switch_track_mtrl_alpha.9.png",
+        "source": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_switch_track_mtrl_alpha.9.png"
     },
     {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
+        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_home_profil.png",
+        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/src/main/res/drawable-mdpi/ic_home_profil.png"
+    },
+    {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_overflow_material.png",
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\abc_ic_menu_overflow_material.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
     },
     {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_clear_material.png",
-        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\abc_ic_clear_material.png"
+        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
     },
     {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
-        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
-        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_clear_material.png",
+        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\abc_ic_clear_material.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_search_api_mtrl_alpha.png",
+        "source": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_ic_search_api_mtrl_alpha.png"
     },
     {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_home_pref.png",
@@ -184,128 +292,148 @@
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
     },
     {
+        "merged": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_selector_disabled_holo_dark.9.png",
+        "source": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_home_diet.png",
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\src\\main\\res\\drawable-mdpi\\ic_home_diet.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_home_diner.png",
+        "source": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/src/main/res/drawable-mdpi/ic_home_diner.png"
     },
     {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_voice_search_api_material.png",
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\abc_ic_voice_search_api_material.png"
     },
     {
-        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_cut_material.png",
-        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\abc_ic_menu_cut_material.png"
+        "merged": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
-        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_cut_material.png",
+        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\abc_ic_menu_cut_material.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_search_api_mtrl_alpha.png",
+        "source": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_menu_cut_material.png",
+        "source": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/generated/res/pngs/debug/drawable-mdpi/abc_ic_menu_cut_material.png"
     },
     {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_pressed_holo_light.9.png",
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_light.9.png"
     },
     {
-        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png",
-        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_radio_on_mtrl.png",
-        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\abc_btn_radio_on_mtrl.png"
+        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
     },
     {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_home_viennoiserie.png",
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/src/main/res/drawable-mdpi/ic_home_viennoiserie.png"
     },
     {
+        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_radio_on_mtrl.png",
+        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\abc_btn_radio_on_mtrl.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_home_dejeuner.png",
+        "source": "/Users/lassinacamara/Desktop/PrototypeHMB/app/src/main/res/drawable-mdpi/ic_home_dejeuner.png"
+    },
+    {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_half_black_36dp.png",
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_36dp.png"
     },
     {
-        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
-        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_focused_holo.9.png",
-        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_list_focused_holo.9.png"
-    },
-    {
-        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
-        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_home_diet.png",
-        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\src\\main\\res\\drawable-mdpi\\ic_home_diet.png"
-    },
-    {
-        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_share_material.png",
-        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\abc_ic_menu_share_material.png"
-    },
-    {
-        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
-        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+        "merged": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png"
     },
     {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
+        "merged": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_menu_overflow_material.png",
+        "source": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/generated/res/pngs/debug/drawable-mdpi/abc_ic_menu_overflow_material.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_textfield_activated_mtrl_alpha.9.png",
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_home_gym.png",
-        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\src\\main\\res\\drawable-mdpi\\ic_home_gym.png"
+        "merged": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_home_gouter.png",
+        "source": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/src/main/res/drawable-mdpi/ic_home_gouter.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_menu_overflow_material.png",
+        "source": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/generated/res/pngs/debug/drawable-mdpi/abc_ic_menu_overflow_material.png"
     },
     {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_black_36dp.png",
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_ic_star_black_36dp.png"
     },
     {
+        "merged": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_longpressed_holo.9.png",
+        "source": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_list_longpressed_holo.9.png"
+    },
+    {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_checkbox_unchecked_mtrl.png",
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/generated/res/pngs/debug/drawable-mdpi/abc_btn_checkbox_unchecked_mtrl.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
     },
     {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_ab_back_material.png",
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\abc_ic_ab_back_material.png"
     },
     {
-        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_radio_on_mtrl.png",
-        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/generated/res/pngs/debug/drawable-mdpi/abc_btn_radio_on_mtrl.png"
-    },
-    {
-        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_clear_material.png",
-        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/generated/res/pngs/debug/drawable-mdpi/abc_ic_clear_material.png"
-    },
-    {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_scrubber_control_off_mtrl_alpha.png",
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
-    },
-    {
-        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png",
-        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
     },
     {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_popup_background_mtrl_mult.9.png",
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_popup_background_mtrl_mult.9.png"
     },
     {
-        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
-        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+        "merged": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_star_black_16dp.png",
+        "source": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_ic_star_black_16dp.png"
     },
     {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_half_black_16dp.png",
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_16dp.png"
     },
     {
-        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_focused_holo.9.png",
-        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_list_focused_holo.9.png"
-    },
-    {
-        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_black_36dp.png",
-        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_ic_star_black_36dp.png"
+        "merged": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
     },
     {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_ab_back_material.png",
@@ -316,28 +444,132 @@
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/src/main/res/drawable-mdpi/ic_home_diet.png"
     },
     {
-        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
-        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
     },
     {
-        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_black_16dp.png",
-        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_ic_star_black_16dp.png"
+        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_home_profil.png",
+        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\src\\main\\res\\drawable-mdpi\\ic_home_profil.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_menu_share_material.png",
+        "source": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/generated/res/pngs/debug/drawable-mdpi/abc_ic_menu_share_material.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_home_pref.png",
+        "source": "/Users/lassinacamara/Desktop/PrototypeHMB/app/src/main/res/drawable-mdpi/ic_home_pref.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_divider_mtrl_alpha.9.png",
+        "source": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_search_api_mtrl_alpha.png",
+        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_star_black_16dp.png",
+        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_clear_material.png",
+        "source": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/generated/res/pngs/debug/drawable-mdpi/abc_ic_clear_material.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_home_diet.png",
+        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\src\\main\\res\\drawable-mdpi\\ic_home_diet.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_share_material.png",
+        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\abc_ic_menu_share_material.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_home_gym.png",
+        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\src\\main\\res\\drawable-mdpi\\ic_home_gym.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_radio_on_mtrl.png",
+        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/generated/res/pngs/debug/drawable-mdpi/abc_btn_radio_on_mtrl.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_clear_material.png",
+        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/generated/res/pngs/debug/drawable-mdpi/abc_ic_clear_material.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_longpressed_holo.9.png",
+        "source": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
     },
     {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_checkbox_checked_mtrl.png",
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\abc_btn_checkbox_checked_mtrl.png"
     },
     {
-        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
-        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_ic_star_black_16dp.png"
     },
     {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_selector_disabled_holo_dark.9.png",
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
     },
     {
-        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_home_profil.png",
-        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\src\\main\\res\\drawable-mdpi\\ic_home_profil.png"
+        "merged": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_divider_mtrl_alpha.9.png",
+        "source": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_list_divider_mtrl_alpha.9.png"
     },
     {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
@@ -348,20 +580,16 @@
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
-        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
-    },
-    {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_home_profil.png",
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\src\\main\\res\\drawable-mdpi\\ic_home_profil.png"
     },
     {
-        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_search_api_mtrl_alpha.png",
-        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_ic_search_api_mtrl_alpha.png"
+        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
-        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_scrubber_track_mtrl_alpha.9.png",
-        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
+        "merged": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
     },
     {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_half_black_16dp.png",
@@ -376,28 +604,24 @@
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_list_pressed_holo_light.9.png"
     },
     {
-        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
-        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
-    },
-    {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
-    },
-    {
-        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_selectall_material.png",
-        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\abc_ic_menu_selectall_material.png"
     },
     {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_star_half_black_36dp.png",
-        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_ic_star_half_black_36dp.png"
+        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_selectall_material.png",
+        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\abc_ic_menu_selectall_material.png"
     },
     {
-        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_star_black_16dp.png",
-        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_ic_star_black_16dp.png"
+        "merged": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_star_half_black_36dp.png",
+        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_ic_star_half_black_36dp.png"
     },
     {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_home_infusion.png",
@@ -408,16 +632,44 @@
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\abc_ic_menu_cut_material.png"
     },
     {
+        "merged": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_popup_background_mtrl_mult.9.png",
+        "source": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_star_black_36dp.png",
+        "source": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_home_petit_dej.png",
+        "source": "/Users/lassinacamara/Desktop/PrototypeHMB/app/src/main/res/drawable-mdpi/ic_home_petit_dej.png"
+    },
+    {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_menu_selectall_material.png",
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/generated/res/pngs/debug/drawable-mdpi/abc_ic_menu_selectall_material.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_star_black_36dp.png",
+        "source": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_ic_star_black_36dp.png"
     },
     {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
+        "merged": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_home_diner.png",
+        "source": "/Users/lassinacamara/Desktop/PrototypeHMB/app/src/main/res/drawable-mdpi/ic_home_diner.png"
+    },
+    {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_voice_search_api_material.png",
+        "source": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/generated/res/pngs/debug/drawable-mdpi/abc_ic_voice_search_api_material.png"
     },
     {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_home_profil.png",
@@ -432,6 +684,10 @@
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_36dp.png"
     },
     {
+        "merged": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_home_petit_dej.png",
+        "source": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/src/main/res/drawable-mdpi/ic_home_petit_dej.png"
+    },
+    {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
     },
@@ -440,68 +696,104 @@
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_switch_track_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_half_black_16dp.png",
-        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_16dp.png"
+        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
     },
     {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_star_half_black_16dp.png",
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_ic_star_half_black_16dp.png"
     },
     {
-        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
-        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_home_infusion.png",
+        "source": "/Users/lassinacamara/Desktop/PrototypeHMB/app/src/main/res/drawable-mdpi/ic_home_infusion.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_home_diet.png",
+        "source": "/Users/lassinacamara/Desktop/PrototypeHMB/app/src/main/res/drawable-mdpi/ic_home_diet.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
     },
     {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_radio_off_mtrl.png",
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\abc_btn_radio_off_mtrl.png"
     },
     {
+        "merged": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_checkbox_unchecked_mtrl.png",
+        "source": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/generated/res/pngs/debug/drawable-mdpi/abc_btn_checkbox_unchecked_mtrl.png"
+    },
+    {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_radio_on_mtrl.png",
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\abc_btn_radio_on_mtrl.png"
     },
     {
-        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
-        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+        "merged": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_menu_selectall_material.png",
+        "source": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/generated/res/pngs/debug/drawable-mdpi/abc_ic_menu_selectall_material.png"
     },
     {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_voice_search_api_material.png",
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\abc_ic_voice_search_api_material.png"
     },
     {
-        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_home_pref.png",
-        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\src\\main\\res\\drawable-mdpi\\ic_home_pref.png"
+        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
-        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
-        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+        "merged": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_selector_disabled_holo_light.9.png",
+        "source": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_home_pref.png",
+        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\src\\main\\res\\drawable-mdpi\\ic_home_pref.png"
     },
     {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_pressed_holo_dark.9.png",
-        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_list_pressed_holo_dark.9.png"
+        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
     },
     {
-        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_overflow_material.png",
-        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\abc_ic_menu_overflow_material.png"
+        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_pressed_holo_dark.9.png",
+        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_list_pressed_holo_dark.9.png"
     },
     {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_black_36dp.png",
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_ic_star_black_36dp.png"
     },
     {
+        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_overflow_material.png",
+        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\abc_ic_menu_overflow_material.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_focused_holo.9.png",
+        "source": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_list_focused_holo.9.png"
+    },
+    {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_radio_on_mtrl.png",
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\abc_btn_radio_on_mtrl.png"
     },
     {
-        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_go_search_api_material.png",
-        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\abc_ic_go_search_api_material.png"
+        "merged": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_go_search_api_material.png",
+        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\abc_ic_go_search_api_material.png"
     },
     {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
@@ -512,12 +804,20 @@
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\abc_ic_menu_selectall_material.png"
     },
     {
+        "merged": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_star_half_black_16dp.png",
+        "source": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_ic_star_half_black_16dp.png"
+    },
+    {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_ic_search_api_mtrl_alpha.png"
     },
     {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_paste_material.png",
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\abc_ic_menu_paste_material.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
     },
     {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_voice_search_api_material.png",
@@ -544,16 +844,44 @@
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
     },
     {
+        "merged": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_home_gouter.png",
+        "source": "/Users/lassinacamara/Desktop/PrototypeHMB/app/src/main/res/drawable-mdpi/ic_home_gouter.png"
+    },
+    {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_selector_disabled_holo_dark.9.png",
+        "source": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_ab_back_material.png",
+        "source": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/generated/res/pngs/debug/drawable-mdpi/abc_ic_ab_back_material.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_radio_on_mtrl.png",
+        "source": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/generated/res/pngs/debug/drawable-mdpi/abc_btn_radio_on_mtrl.png"
     },
     {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_popup_background_mtrl_mult.9.png",
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_popup_background_mtrl_mult.9.png"
     },
     {
+        "merged": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_voice_search_api_material.png",
+        "source": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/generated/res/pngs/debug/drawable-mdpi/abc_ic_voice_search_api_material.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_menu_share_material.png",
+        "source": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/generated/res/pngs/debug/drawable-mdpi/abc_ic_menu_share_material.png"
+    },
+    {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_overflow_material.png",
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\abc_ic_menu_overflow_material.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_radio_off_mtrl.png",
+        "source": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/generated/res/pngs/debug/drawable-mdpi/abc_btn_radio_off_mtrl.png"
     },
     {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_home_pref.png",
@@ -568,16 +896,24 @@
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/generated/res/pngs/debug/drawable-mdpi/abc_ic_menu_share_material.png"
     },
     {
-        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_popup_background_mtrl_mult.9.png",
-        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+        "merged": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_clear_material.png",
+        "source": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/generated/res/pngs/debug/drawable-mdpi/abc_ic_clear_material.png"
     },
     {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_tab_indicator_mtrl_alpha.9.png",
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
+        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_selector_disabled_holo_light.9.png",
+        "source": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_list_selector_disabled_holo_light.9.png"
     },
     {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
@@ -592,8 +928,24 @@
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\abc_ic_voice_search_api_material.png"
     },
     {
+        "merged": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_go_search_api_material.png",
+        "source": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/generated/res/pngs/debug/drawable-mdpi/abc_ic_go_search_api_material.png"
+    },
+    {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_home_gym.png",
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\src\\main\\res\\drawable-mdpi\\ic_home_gym.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_ab_back_material.png",
+        "source": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/generated/res/pngs/debug/drawable-mdpi/abc_ic_ab_back_material.png"
     },
     {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
@@ -604,16 +956,20 @@
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/generated/res/pngs/debug/drawable-mdpi/abc_ic_go_search_api_material.png"
     },
     {
-        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_copy_material.png",
-        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\abc_ic_menu_copy_material.png"
-    },
-    {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png"
     },
     {
+        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_copy_material.png",
+        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\abc_ic_menu_copy_material.png"
+    },
+    {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_checkbox_checked_mtrl.png",
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/generated/res/pngs/debug/drawable-mdpi/abc_btn_checkbox_checked_mtrl.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_home_gym.png",
+        "source": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/src/main/res/drawable-mdpi/ic_home_gym.png"
     },
     {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_menu_paste_material.png",
@@ -624,12 +980,16 @@
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_list_focused_holo.9.png"
     },
     {
-        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_star_black_36dp.png",
-        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_ic_star_black_36dp.png"
+        "merged": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png"
     },
     {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_star_black_36dp.png",
+        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_ic_star_black_36dp.png"
     },
     {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
@@ -640,16 +1000,28 @@
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\abc_ic_ab_back_material.png"
     },
     {
+        "merged": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_radio_on_mtrl.png",
+        "source": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/generated/res/pngs/debug/drawable-mdpi/abc_btn_radio_on_mtrl.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_longpressed_holo.9.png",
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_home_pref.png",
+        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\src\\main\\res\\drawable-mdpi\\ic_home_pref.png"
     },
     {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_paste_material.png",
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\abc_ic_menu_paste_material.png"
     },
     {
-        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_home_pref.png",
-        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\src\\main\\res\\drawable-mdpi\\ic_home_pref.png"
+        "merged": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
     },
     {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png",
@@ -662,6 +1034,10 @@
     {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_home_gym.png",
+        "source": "/Users/lassinacamara/Desktop/PrototypeHMB/app/src/main/res/drawable-mdpi/ic_home_gym.png"
     },
     {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_copy_material.png",
@@ -680,12 +1056,28 @@
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/generated/res/pngs/debug/drawable-mdpi/abc_ic_menu_cut_material.png"
     },
     {
+        "merged": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_home_diet.png",
+        "source": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/src/main/res/drawable-mdpi/ic_home_diet.png"
+    },
+    {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_home_diet.png",
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\src\\main\\res\\drawable-mdpi\\ic_home_diet.png"
     },
     {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_pressed_holo_dark.9.png",
+        "source": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_list_pressed_holo_dark.9.png"
     },
     {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
@@ -700,6 +1092,10 @@
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
     },
     {
+        "merged": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_home_pref.png",
+        "source": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/src/main/res/drawable-mdpi/ic_home_pref.png"
+    },
+    {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png"
     },
@@ -708,8 +1104,20 @@
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_popup_background_mtrl_mult.9.png"
     },
     {
+        "merged": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_home_viennoiserie.png",
+        "source": "/Users/lassinacamara/Desktop/PrototypeHMB/app/src/main/res/drawable-mdpi/ic_home_viennoiserie.png"
+    },
+    {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_checkbox_unchecked_mtrl.png",
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\abc_btn_checkbox_unchecked_mtrl.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_checkbox_checked_mtrl.png",
+        "source": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/generated/res/pngs/debug/drawable-mdpi/abc_btn_checkbox_checked_mtrl.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_popup_background_mtrl_mult.9.png",
+        "source": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_popup_background_mtrl_mult.9.png"
     },
     {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_home_fruit.png",
@@ -720,6 +1128,10 @@
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
     },
     {
+        "merged": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_radio_off_mtrl.png",
+        "source": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/generated/res/pngs/debug/drawable-mdpi/abc_btn_radio_off_mtrl.png"
+    },
+    {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
     },
@@ -728,8 +1140,16 @@
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
+        "merged": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_home_infusion.png",
+        "source": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/src/main/res/drawable-mdpi/ic_home_infusion.png"
+    },
+    {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_menu_selectall_material.png",
+        "source": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/generated/res/pngs/debug/drawable-mdpi/abc_ic_menu_selectall_material.png"
     },
     {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_radio_off_mtrl.png",
@@ -740,16 +1160,20 @@
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
     },
     {
+        "merged": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_focused_holo.9.png",
+        "source": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_list_focused_holo.9.png"
+    },
+    {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png",
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
-        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png",
-        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
-    },
-    {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
@@ -760,12 +1184,12 @@
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
-        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
-    },
-    {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_checkbox_checked_mtrl.png",
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\abc_btn_checkbox_checked_mtrl.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
@@ -788,24 +1212,32 @@
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\HealthyMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
     },
     {
+        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_checkbox_unchecked_mtrl.png",
+        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\abc_btn_checkbox_unchecked_mtrl.png"
+    },
+    {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_checkbox_unchecked_mtrl.png",
-        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\abc_btn_checkbox_unchecked_mtrl.png"
+        "merged": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_menu_cut_material.png",
+        "source": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/generated/res/pngs/debug/drawable-mdpi/abc_ic_menu_cut_material.png"
     },
     {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_home_gouter.png",
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/src/main/res/drawable-mdpi/ic_home_gouter.png"
     },
     {
+        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_copy_material.png",
+        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\abc_ic_menu_copy_material.png"
+    },
+    {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
     },
     {
-        "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_copy_material.png",
-        "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\abc_ic_menu_copy_material.png"
+        "merged": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_menu_copy_material.png",
+        "source": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/generated/res/pngs/debug/drawable-mdpi/abc_ic_menu_copy_material.png"
     },
     {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_home_diner.png",
@@ -824,8 +1256,32 @@
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/C:\\Users\\PAUL\\Desktop\\Cours\\Android_Workspace\\PrototypeHMB\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\abc_ic_menu_share_material.png"
     },
     {
+        "merged": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_menu_paste_material.png",
+        "source": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/generated/res/pngs/debug/drawable-mdpi/abc_ic_menu_paste_material.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_menu_copy_material.png",
+        "source": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/generated/res/pngs/debug/drawable-mdpi/abc_ic_menu_copy_material.png"
+    },
+    {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_pressed_holo_light.9.png",
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/D:\\Cloud\\OneDrive\\Android\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_textfield_default_mtrl_alpha.9.png",
+        "source": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_pressed_holo_light.9.png",
+        "source": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_home_dejeuner.png",
+        "source": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/src/main/res/drawable-mdpi/ic_home_dejeuner.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_pressed_holo_light.9.png",
+        "source": "/Users/lassinacamara/Desktop/PA8/version one de ce que j'ai fais/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_list_pressed_holo_light.9.png"
     },
     {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png",
@@ -842,5 +1298,13 @@
     {
         "merged": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_longpressed_holo.9.png",
         "source": "/Users/lassinacamara/AndroidStudioProjects/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_star_half_black_36dp.png",
+        "source": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-mdpi-v4/abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "/Users/lassinacamara/Desktop/PrototypeHMB/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_home_profil.png",
+        "source": "/Users/lassinacamara/Desktop/PrototypeHMB/app/src/main/res/drawable-mdpi/ic_home_profil.png"
     }
 ]

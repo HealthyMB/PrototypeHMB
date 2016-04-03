@@ -86,7 +86,8 @@
                     android:id="@+id/d_infusion"
                     android:backgroundTint="@android:color/black"
                     android:clickable="true"
-                    android:onClick="onClick"/>
+                    android:onClick="onClick"
+                    android:baselineAlignBottom="false" />
 
                 <ImageButton android:text="@string/d_gouter"
                     android:layout_column="1"
@@ -114,6 +115,43 @@
             </TableRow>
 
         </TableLayout>
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:layout_marginLeft="20dp">
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/valider"
+                android:id="@+id/d_valider"
+                android:onClick="onClick" />
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/d_modifier"
+                android:layout_marginLeft="70dp"
+                android:text="@string/d_modifier"
+                android:onClick="onClick" />
+        </LinearLayout>
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:layout_marginLeft="20dp">
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/d_finish"
+                android:layout_marginLeft="70dp"
+                android:text="Finish"
+                android:onClick="onClick" />
+
+        </LinearLayout>
 
     </LinearLayout>
 </ScrollView>

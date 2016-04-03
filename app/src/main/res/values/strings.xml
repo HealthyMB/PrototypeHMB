@@ -41,5 +41,6 @@
     <string name="title_activity_dejeuner">Dejeuner</string>
     <string name="title_activity_diner">Diner</string>
     <string name="title_activity_gouter">Gouter</string>
+    <string name="title_activity_resume_repas">resumeRepas</string>
 
 </resources>

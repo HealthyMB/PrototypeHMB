@@ -319,6 +319,10 @@
     <string name="sexe">Sexe :</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="taille">Taille :</string>
+    <string name="title_activity_dejeuner">Dejeuner</string>
+    <string name="title_activity_diner">Diner</string>
+    <string name="title_activity_gouter">Gouter</string>
+    <string name="title_activity_resume_repas">resumeRepas</string>
     <string name="title_activity_viennoiserie">Viennoiserie</string>
     <string name="valider">Valider</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>

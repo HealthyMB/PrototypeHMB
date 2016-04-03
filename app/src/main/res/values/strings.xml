@@ -9,7 +9,7 @@
     <string name="b_signin">S\'identifier</string>
     <string name="b_checkco">Vérifier votre connection</string>
     <string name="b_signup">S\'enregister</string>
-    <string name="creerCompte">Créer un compte</string>
+    <string name="creerCompte"><u> Créer un compte</u></string>
     <string name="confirmMdp">Confirmez le mot de passe</string>
 
     <string name="generalites">Généralités</string>

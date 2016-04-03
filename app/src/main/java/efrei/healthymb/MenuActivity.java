@@ -78,16 +78,16 @@ public class MenuActivity extends AppCompatActivity
             vf.setDisplayedChild(1);
         }
         else if (id == R.id.nav_diet) {
-            vf.setDisplayedChild(2);
+            vf.setDisplayedChild(1);
         }
         else if (id == R.id.nav_stats) {
-            vf.setDisplayedChild(3);
+            vf.setDisplayedChild(2);
         }
         else if (id == R.id.nav_profil) {
-
+            vf.setDisplayedChild(3);
         }
         else if (id == R.id.nav_manage) {
-
+            vf.setDisplayedChild(5);
         }
         else if (id == R.id.nav_exit) {
 
@@ -96,5 +96,20 @@ public class MenuActivity extends AppCompatActivity
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
         drawer.closeDrawer(GravityCompat.START);
         return true;
+    }
+    @Override
+    public void onWindowFocusChanged(boolean hasFocus) {
+        super.onWindowFocusChanged(hasFocus);
+        if (hasFocus) {
+            if (android.os.Build.VERSION.SDK_INT >= 19) {
+                getWindow().getDecorView().setSystemUiVisibility(
+                        View.SYSTEM_UI_FLAG_LAYOUT_STABLE |
+                                View.SYSTEM_UI_FLAG_LAYOUT_HIDE_NAVIGATION |
+                                View.SYSTEM_UI_FLAG_LAYOUT_FULLSCREEN |
+                                View.SYSTEM_UI_FLAG_HIDE_NAVIGATION |
+                                View.SYSTEM_UI_FLAG_FULLSCREEN |
+                                View.SYSTEM_UI_FLAG_IMMERSIVE_STICKY);
+            }
+        }
     }
 }

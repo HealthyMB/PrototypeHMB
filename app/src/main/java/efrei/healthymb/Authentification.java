@@ -71,7 +71,7 @@ public class Authentification extends AppCompatActivity {
         });
     }
 
-   /* @Override
+
     public void onClick(View v) {
         switch (v.getId()) {
 
@@ -87,7 +87,7 @@ public class Authentification extends AppCompatActivity {
                     e.setText("Failed !");
                 }
             }
-            break;
+            break;*/
 
             case R.id.b_create:
             {
@@ -100,7 +100,7 @@ public class Authentification extends AppCompatActivity {
                 break;
         }
     }
-*/
+
    @Override
    public void onWindowFocusChanged(boolean hasFocus) {
        super.onWindowFocusChanged(hasFocus);

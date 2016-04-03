@@ -106,7 +106,7 @@ public class Formulaire extends AppCompatActivity {
                         @Override
                         public void processFinish(String s) {
                             if(s.contains("success")) {
-                                Intent intent = new Intent(Formulaire.this, Profil.class);
+                                Intent intent = new Intent(Formulaire.this, MenuActivity.class);
                                 intent.putExtra("idUser", String.valueOf(idUser));
                                 startActivity(intent);
                             } else {

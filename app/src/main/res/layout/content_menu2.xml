@@ -18,7 +18,10 @@
         android:layout_height="wrap_content" >
 
         <include android:id="@+id/test1" layout="@layout/accueil" />
-
+        <include android:id="@+id/test2" layout="@layout/activity_sportseance" />
+        <include android:id="@+id/test3" layout="@layout/accueil" />
+        <include android:id="@+id/test4" layout="@layout/activity_profil" />
+        <include android:id="@+id/test5" layout="@layout/accueil" />
     </ViewFlipper>
 
 </RelativeLayout>

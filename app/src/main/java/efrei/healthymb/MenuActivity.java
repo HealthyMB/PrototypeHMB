@@ -253,7 +253,19 @@ public class MenuActivity extends AppCompatActivity
                     tailleT.setText(data[2] + " cm");
                     poidsT.setText(data[3] + " kg");
                     ageT.setText(data[4] + " ans");
+                    if(data.length == 6) {
+                        if (data[5].equals("1")) {
+                            poidsBox.setChecked(true);
+                        } else if (data[5].equals("2")) {
+                            physiqueBox.setChecked(true);
+                        } else if (data[5].equals("3")) {
+                            muscuBox.setChecked(true);
+                        } else {
+                            Log.e("Erreur", "L'objectif reçu est incorrect!");
+                        }
+                    }
                 }
+
             }
         });
         task1.execute("http://healthymb.no-ip.org:8080/PA8/profil.php");

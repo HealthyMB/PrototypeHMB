@@ -1,8 +1,16 @@
 package efrei.healthymb;
 
+import android.app.Activity;
+import android.app.Fragment;
+import android.app.FragmentManager;
+import android.app.FragmentTransaction;
+import android.content.Context;
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
+import android.support.v4.app.FragmentActivity;
+import android.util.Log;
 import android.view.View;
 import android.support.design.widget.NavigationView;
 import android.support.v4.view.GravityCompat;
@@ -12,7 +20,23 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.widget.AdapterView;
+import android.widget.Button;
+import android.widget.CheckBox;
+import android.widget.ListView;
+import android.widget.TextView;
+import android.widget.Toast;
 import android.widget.ViewFlipper;
+
+import java.util.ArrayList;
+import java.util.HashMap;
+
+import async.AsyncResponse;
+import async.PostResponseAsyncTask;
+import sport.Seance;
+import sport.SeanceAdapter;
+import sport.SportExercice;
+import sport.SportSeance;
 
 public class MenuActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
@@ -23,6 +47,9 @@ public class MenuActivity extends AppCompatActivity
         setContentView(R.layout.activity_menu2);
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
+        init();
+        init_profil();
+        initializeData();
 
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
         ActionBarDrawerToggle toggle = new ActionBarDrawerToggle(
@@ -73,9 +100,10 @@ public class MenuActivity extends AppCompatActivity
         int id = item.getItemId();
         ViewFlipper vf = (ViewFlipper)findViewById(R.id.vf);
 
-
         if (id == R.id.nav_sport) {
             vf.setDisplayedChild(1);
+
+
         }
         else if (id == R.id.nav_diet) {
             vf.setDisplayedChild(1);
@@ -112,4 +140,124 @@ public class MenuActivity extends AppCompatActivity
             }
         }
     }
+
+    private ListView listeSeance;
+    private ArrayList<Seance> seances = new ArrayList<Seance>();
+    private int idUser = 1; // @TODO enlever le = 1 (juste pour les tests)
+
+    public void init(){
+        seances = new ArrayList<Seance>();
+        // @TODO à remettre apres les tests
+        /*
+        Bundle extras = getIntent().getExtras();
+        idUser = Integer.parseInt(extras.getString("idUser"));
+        */
+        listeSeance = (ListView) findViewById(R.id.listeSeance);
+
+        HashMap postData = new HashMap();
+        postData.put("idUser", String.valueOf(idUser));
+
+        PostResponseAsyncTask task1 = new PostResponseAsyncTask(MenuActivity.this, postData, new AsyncResponse() {
+            @Override
+            public void processFinish(String s) {
+                Log.e("error", s);
+                if(s.contains("success")) {
+                    String data[] = s.split(";");
+                    int i = 1;
+                    while(i < data.length) {
+                        seances.add(new Seance(Integer.parseInt(data[i++]), data[i++], Integer.parseInt(data[i++]), Integer.parseInt(data[i++])));
+                    }
+                    SeanceAdapter adapter = new SeanceAdapter(seances,MenuActivity.this);
+                    listeSeance.setAdapter(adapter);
+                } else {
+                    Toast.makeText(MenuActivity.this, "Connection failed!", Toast.LENGTH_LONG).show();
+                }
+            }
+        });
+
+        task1.execute("http://healthymb.no-ip.org:8080/PA8/seance.php");
+
+        listeSeance.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+            @Override
+            public void onItemClick(AdapterView<?> adapterView,
+                                    View view,
+                                    int position,
+                                    long id) {
+                Intent intent = new Intent(MenuActivity.this, SportExercice.class);
+                intent.putExtra("idSeance", String.valueOf(id));
+                intent.putExtra("idUser", String.valueOf(idUser));
+                intent.putExtra("nomSeance", findNomSeanceById(id));
+                startActivity(intent);
+            }
+        });
+
+
+    }
+
+
+
+
+    private String findNomSeanceById(long id) {
+        for(Seance seance : seances){
+            if(seance.getId() == id) {
+                return seance.getNom();
+            }
+        }
+        return null;
+    }
+
+    private TextView sexeT, tailleT, poidsT, ageT;
+    private CheckBox poidsBox, physiqueBox, muscuBox;
+    private Button modifier;
+
+    public void init_profil(){
+
+        sexeT = (TextView) findViewById(R.id.sexeTid);
+        tailleT = (TextView) findViewById(R.id.tailleTid);
+        poidsT = (TextView) findViewById(R.id.poidsTid);
+        ageT = (TextView) findViewById(R.id.ageTid);
+
+        poidsBox = (CheckBox) findViewById(R.id.poidsBoxId);
+        physiqueBox = (CheckBox) findViewById(R.id.physiqueBoxId);
+        muscuBox = (CheckBox) findViewById(R.id.muscuBoxId);
+        poidsBox.setClickable(false);
+        physiqueBox.setClickable(false);
+        muscuBox.setClickable(false);
+
+        modifier = (Button) findViewById(R.id.modifierId);
+        modifier.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(MenuActivity.this, Formulaire.class);
+                intent.putExtra("idUser", String.valueOf(idUser));
+                startActivity(intent);
+            }
+        });
+        Bundle extras = getIntent().getExtras();
+        idUser = Integer.parseInt(extras.getString("idUser"));
+    }
+
+        private void initializeData() {
+        HashMap postData = new HashMap();
+
+        postData.put("idUser", String.valueOf(idUser));
+
+        PostResponseAsyncTask task1 = new PostResponseAsyncTask(MenuActivity.this, postData, new AsyncResponse() {
+            @Override
+            public void processFinish(String s) {
+                if (s.contains("success")) {
+                    String data[] = s.split(" ");
+                    sexeT.setText((data[1].equals("1")) ? "masculin" : "feminin");
+
+
+                    tailleT.setText(data[2] + " cm");
+                    poidsT.setText(data[3] + " kg");
+                    ageT.setText(data[4] + " ans");
+                }
+            }
+        });
+        task1.execute("http://healthymb.no-ip.org:8080/PA8/profil.php");
+        }
+
 }
+

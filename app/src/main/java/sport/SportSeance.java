@@ -1,10 +1,14 @@
 package sport;
 
 import android.app.Activity;
+import android.app.Fragment;
+import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
 import android.util.Log;
+import android.view.LayoutInflater;
 import android.view.View;
+import android.view.ViewGroup;
 import android.widget.AdapterView;
 import android.widget.ListView;
 import android.widget.Toast;
@@ -31,16 +35,18 @@ public class SportSeance extends Activity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_sportseance);
+//        setContentView(R.layout.activity_sportseance);
 
+    }
+
+    public void init(Context context){
         seances = new ArrayList<Seance>();
         // @TODO à remettre apres les tests
         /*
         Bundle extras = getIntent().getExtras();
         idUser = Integer.parseInt(extras.getString("idUser"));
         */
-
-        listeSeance = (ListView) findViewById(R.id.listeSeance);
+        listeSeance = (ListView)  ((Activity)context).findViewById(R.id.listeSeance);
 
         HashMap postData = new HashMap();
         postData.put("idUser", String.valueOf(idUser));
@@ -81,6 +87,9 @@ public class SportSeance extends Activity {
 
 
     }
+
+
+
 
     private String findNomSeanceById(long id) {
         for(Seance seance : seances){

@@ -101,6 +101,7 @@ public class Formulaire extends AppCompatActivity {
                     postData.put("taille", String.valueOf(taille));
                     postData.put("poids", String.valueOf(poids));
                     postData.put("age", String.valueOf(age));
+                    postData.put("objectif", perdrePoids ? "1" : physique ? "2" : "3");
 
                     PostResponseAsyncTask task1 = new PostResponseAsyncTask(Formulaire.this, postData, new AsyncResponse() {
                         @Override
@@ -145,6 +146,18 @@ public class Formulaire extends AppCompatActivity {
                     tailleValeur.setText(data[2] + " cm");
                     poidsValeur.setText(data[3] + " kg");
                     ageValeur.setText(data[4] + " ans");
+
+                    if(data.length == 6) {
+                        if (data[5].equals("1")) {
+                            poidsBox.setChecked(true);
+                        } else if (data[5].equals("2")) {
+                            physiqueBox.setChecked(true);
+                        } else if (data[5].equals("3")) {
+                            muscuBox.setChecked(true);
+                        } else {
+                            Log.e("Erreur", "L'objectif reçu est incorrect!");
+                        }
+                    }
                 }
             }
         });

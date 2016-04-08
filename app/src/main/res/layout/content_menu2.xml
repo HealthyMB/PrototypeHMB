@@ -24,4 +24,6 @@
         <include android:id="@+id/test5" layout="@layout/accueil" />
     </ViewFlipper>
 
+
+
 </RelativeLayout>

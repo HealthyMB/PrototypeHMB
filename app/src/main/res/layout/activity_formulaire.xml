@@ -102,13 +102,29 @@
                     android:layout_gravity="center_horizontal"
                     android:layout_marginLeft="2dp" />
 
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:text="0 cm"
-                    android:id="@+id/tailleValeurId"
-                    android:textSize="15dp"
-                    android:layout_gravity="center_horizontal" />
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:gravity="center">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="1 m"
+                        android:id="@+id/textView11"
+                        android:layout_marginRight="10dp"
+                        android:textSize="15dp"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:text="0 cm"
+                        android:id="@+id/tailleValeurId"
+                        android:textSize="15dp"
+                        android:layout_gravity="center_horizontal" />
+
+                </LinearLayout>
 
             </LinearLayout>
 

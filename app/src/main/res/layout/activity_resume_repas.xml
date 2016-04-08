@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    tools:context="efrei.healthymb.Menu">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Repas enregistré"
+            android:id="@+id/d_synthese_titre"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="15dp"
+            android:textSize="30dp"
+            android:textStyle="bold" />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Repas enregistré"
+            android:id="@+id/d_synthese"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="15dp"
+            android:textSize="30dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="total calorie"
+            android:id="@+id/d_total_calorie"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="15dp"
+            android:textSize="30dp"
+            android:textStyle="bold" />
+
+
+
+
+    </LinearLayout>
+</ScrollView>

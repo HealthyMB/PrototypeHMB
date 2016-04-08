@@ -300,6 +300,23 @@
     <string name="character_counter_pattern" translatable="false">%1$d / %2$d</string>
     <string name="confirmMdp">Confirmez le mot de passe</string>
     <string name="creerCompte"><u> Créer un compte</u></string>
+    <string name="d_brioche">Brioche :</string>
+    <string name="d_chaussons">Chaussons :</string>
+    <string name="d_choix">Choix</string>
+    <string name="d_croissant">Croissant :</string>
+    <string name="d_dejeuner">Déjeuner</string>
+    <string name="d_diner">Dîner</string>
+    <string name="d_fruit">Fruits</string>
+    <string name="d_gouter">Goûter</string>
+    <string name="d_infusion">Infusion</string>
+    <string name="d_modifier">Modifier</string>
+    <string name="d_pain_au_chocolat">Pain au chocolat :</string>
+    <string name="d_pain_au_raisins">Pain au raisins :</string>
+    <string name="d_pain_lait">Pain au lait :</string>
+    <string name="d_petit_dej">Petit Déjeuner</string>
+    <string name="d_repas">Repas</string>
+    <string name="d_title_petit_Dejeuner">Petit Déjeuner</string>
+    <string name="d_viennoiserie">Viennoiserie</string>
     <string name="description">blablablablablablablablablablablablablablablablablablablablablablablablablablabla</string>
     <string name="descriptionT">Description : </string>
     <string name="difficulteSeance">3/5</string>
@@ -334,7 +351,12 @@
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="taille">Taille : </string>
     <string name="tailleT">"1m82"</string>
+    <string name="title_activity_dejeuner">Dejeuner</string>
+    <string name="title_activity_diner">Diner</string>
+    <string name="title_activity_gouter">Gouter</string>
     <string name="title_activity_menu">Menu</string>
+    <string name="title_activity_resume_repas">resumeRepas</string>
+    <string name="title_activity_viennoiserie">Viennoiserie</string>
     <string name="valider">Valider</string>
     <string name="welcome_msg">Bienvenue</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>

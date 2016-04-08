@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\PrototypeHMB\app\src\main\AndroidManifest.xml:2:1-37:12
+ADDED from D:\PrototypeHMB\app\src\main\AndroidManifest.xml:2:1-48:12
 	xmlns:android
 		ADDED from D:\PrototypeHMB\app\src\main\AndroidManifest.xml:2:11-69
 	package
@@ -22,7 +22,7 @@ ADDED from D:\PrototypeHMB\app\src\main\AndroidManifest.xml:6:5-79
 	android:name
 		ADDED from D:\PrototypeHMB\app\src\main\AndroidManifest.xml:6:22-76
 application
-ADDED from D:\PrototypeHMB\app\src\main\AndroidManifest.xml:8:5-35:19
+ADDED from D:\PrototypeHMB\app\src\main\AndroidManifest.xml:8:5-46:19
 MERGED from [com.android.support:appcompat-v7:23.2.0] D:\PrototypeHMB\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-v4:23.2.0] D:\PrototypeHMB\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:animated-vector-drawable:23.2.0] D:\PrototypeHMB\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.0\AndroidManifest.xml:7:5-20
@@ -88,17 +88,49 @@ ADDED from D:\PrototypeHMB\app\src\main\AndroidManifest.xml:26:9-29:20
 	android:name
 		ADDED from D:\PrototypeHMB\app\src\main\AndroidManifest.xml:27:13-45
 activity#sport.SportExercice
-ADDED from D:\PrototypeHMB\app\src\main\AndroidManifest.xml:30:9-56
+ADDED from D:\PrototypeHMB\app\src\main\AndroidManifest.xml:31:9-56
 	android:name
-		ADDED from D:\PrototypeHMB\app\src\main\AndroidManifest.xml:30:19-53
-activity#efrei.healthymb.MenuActivity
-ADDED from D:\PrototypeHMB\app\src\main\AndroidManifest.xml:31:9-34:68
+		ADDED from D:\PrototypeHMB\app\src\main\AndroidManifest.xml:31:19-53
+activity#diet.Repas
+ADDED from D:\PrototypeHMB\app\src\main\AndroidManifest.xml:32:9-47
+	android:name
+		ADDED from D:\PrototypeHMB\app\src\main\AndroidManifest.xml:32:19-44
+activity#diet.Petit_Dejeuner
+ADDED from D:\PrototypeHMB\app\src\main\AndroidManifest.xml:33:9-56
+	android:name
+		ADDED from D:\PrototypeHMB\app\src\main\AndroidManifest.xml:33:19-53
+activity#diet.Viennoiserie
+ADDED from D:\PrototypeHMB\app\src\main\AndroidManifest.xml:34:9-54
+	android:name
+		ADDED from D:\PrototypeHMB\app\src\main\AndroidManifest.xml:34:19-51
+activity#diet.Dejeuner
+ADDED from D:\PrototypeHMB\app\src\main\AndroidManifest.xml:35:9-50
+	android:name
+		ADDED from D:\PrototypeHMB\app\src\main\AndroidManifest.xml:35:19-47
+activity#diet.Diner
+ADDED from D:\PrototypeHMB\app\src\main\AndroidManifest.xml:36:9-47
+	android:name
+		ADDED from D:\PrototypeHMB\app\src\main\AndroidManifest.xml:36:19-44
+activity#diet.Gouter
+ADDED from D:\PrototypeHMB\app\src\main\AndroidManifest.xml:37:9-48
+	android:name
+		ADDED from D:\PrototypeHMB\app\src\main\AndroidManifest.xml:37:19-45
+activity#diet.resumeRepas
+ADDED from D:\PrototypeHMB\app\src\main\AndroidManifest.xml:38:9-41:68
 	android:label
-		ADDED from D:\PrototypeHMB\app\src\main\AndroidManifest.xml:33:13-56
+		ADDED from D:\PrototypeHMB\app\src\main\AndroidManifest.xml:40:13-64
 	android:theme
-		ADDED from D:\PrototypeHMB\app\src\main\AndroidManifest.xml:34:13-56
+		ADDED from D:\PrototypeHMB\app\src\main\AndroidManifest.xml:41:13-56
 	android:name
-		ADDED from D:\PrototypeHMB\app\src\main\AndroidManifest.xml:32:13-41
+		ADDED from D:\PrototypeHMB\app\src\main\AndroidManifest.xml:39:13-44
+activity#efrei.healthymb.MenuActivity
+ADDED from D:\PrototypeHMB\app\src\main\AndroidManifest.xml:42:9-45:68
+	android:label
+		ADDED from D:\PrototypeHMB\app\src\main\AndroidManifest.xml:44:13-56
+	android:theme
+		ADDED from D:\PrototypeHMB\app\src\main\AndroidManifest.xml:45:13-56
+	android:name
+		ADDED from D:\PrototypeHMB\app\src\main\AndroidManifest.xml:43:13-41
 uses-sdk
 INJECTED from D:\PrototypeHMB\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:appcompat-v7:23.2.0] D:\PrototypeHMB\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\AndroidManifest.xml:21:5-23:78

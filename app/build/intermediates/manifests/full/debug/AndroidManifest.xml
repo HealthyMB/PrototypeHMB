@@ -37,6 +37,16 @@
             android:configChanges="orientation|screenSize" >
         </activity>
         <activity android:name="sport.SportExercice" />
+        <activity android:name="diet.Repas" />
+        <activity android:name="diet.Petit_Dejeuner" />
+        <activity android:name="diet.Viennoiserie" />
+        <activity android:name="diet.Dejeuner" />
+        <activity android:name="diet.Diner" />
+        <activity android:name="diet.Gouter" />
+        <activity
+            android:name="diet.resumeRepas"
+            android:label="@string/title_activity_resume_repas"
+            android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name="efrei.healthymb.MenuActivity"
             android:label="@string/title_activity_menu"

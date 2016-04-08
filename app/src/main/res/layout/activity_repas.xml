@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="efrei.healthymb.Menu"
+    android:orientation="vertical">
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/d_repas"
+            android:id="@+id/d_repas"
+            android:hint="@string/d_repas"
+            android:textSize="40sp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_gravity="center_horizontal|top"
+            android:textColor="#000000"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp" />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <ImageButton
+            android:text="@string/d_petit_dej"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_column="0"
+            android:background="@drawable/ic_home_petit_dej"
+            android:textAlignment="center"
+            android:id="@+id/d_petit_dej"
+            android:backgroundTint="@android:color/black"
+            android:clickable="true"
+            android:onClick="onClick"
+            android:layout_marginLeft="30dp" />
+
+        <ImageButton android:text="@string/d_dejeuner"
+            android:layout_column="1"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:background="@drawable/ic_home_dejeuner"
+            android:id="@+id/d_dej"
+            android:backgroundTint="@android:color/black"
+            android:onClick="onClick"
+            android:layout_marginLeft="95dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:text="@string/d_petit_dej"
+            android:textAlignment="center"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="20dp" />
+
+        <TextView
+                android:text="@string/d_dejeuner"
+                android:textAlignment="center"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+            android:layout_marginLeft="80dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <ImageButton android:text="@string/d_diner"
+            android:layout_column="0"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:background="@drawable/ic_home_diner"
+            android:id="@+id/d_diner"
+            android:backgroundTint="@android:color/black"
+            android:clickable="true"
+            android:onClick="onClick"
+            android:layout_marginLeft="30dp" />
+
+        <ImageButton android:text="@string/d_gouter"
+            android:layout_column="1"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:background="@drawable/ic_home_gouter"
+            android:id="@+id/d_gouter"
+            android:backgroundTint="@android:color/black"
+            android:clickable="false"
+            android:onClick="onClick"
+            android:layout_marginLeft="90dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <TextView
+                android:text="@string/d_gouter"
+                android:textAlignment="center"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+            android:layout_marginLeft="40dp" />
+
+        <TextView
+            android:text="@string/d_diner"
+            android:textAlignment="center"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="115dp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp">
+
+            <Button
+                android:background="@drawable/valider_button"
+                android:id="@+id/d_valider"
+                android:layout_width="140dp"
+                android:layout_height="40dp"
+                android:onClick="onClick"
+                android:singleLine="true" />
+
+            <Button
+                android:layout_width="140dp"
+                android:layout_height="40dp"
+                android:id="@+id/d_modifier"
+                android:background="@drawable/modify_button"
+                android:onClick="onClick"
+                android:singleLine="true"
+                android:layout_marginLeft="5dp" />
+        </LinearLayout>
+
+    </LinearLayout>
+

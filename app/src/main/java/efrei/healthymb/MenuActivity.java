@@ -33,6 +33,10 @@ import java.util.HashMap;
 
 import async.AsyncResponse;
 import async.PostResponseAsyncTask;
+import diet.Dejeuner;
+import diet.Diner;
+import diet.Gouter;
+import diet.Petit_Dejeuner;
 import sport.Seance;
 import sport.SeanceAdapter;
 import sport.SportExercice;
@@ -106,13 +110,13 @@ public class MenuActivity extends AppCompatActivity
 
         }
         else if (id == R.id.nav_diet) {
-            vf.setDisplayedChild(1);
-        }
-        else if (id == R.id.nav_stats) {
             vf.setDisplayedChild(2);
         }
-        else if (id == R.id.nav_profil) {
+        else if (id == R.id.nav_stats) {
             vf.setDisplayedChild(3);
+        }
+        else if (id == R.id.nav_profil) {
+            vf.setDisplayedChild(4);
         }
         else if (id == R.id.nav_manage) {
             vf.setDisplayedChild(5);
@@ -144,6 +148,7 @@ public class MenuActivity extends AppCompatActivity
     private ListView listeSeance;
     private ArrayList<Seance> seances = new ArrayList<Seance>();
     private int idUser = 1; // @TODO enlever le = 1 (juste pour les tests)
+
 
     public void init(){
         seances = new ArrayList<Seance>();
@@ -194,7 +199,33 @@ public class MenuActivity extends AppCompatActivity
 
     }
 
+    public void onClick(View v) {
+        switch (v.getId()) {
+            case R.id.d_petit_dej: {
+                Intent intent = new Intent(getApplicationContext(), Petit_Dejeuner.class);
+                startActivity(intent);
+            }
+            break;
+            case R.id.d_dej: {
+                Intent intent = new Intent(getApplicationContext(), Dejeuner.class);
+                startActivity(intent);
+            }
+            break;
+            case R.id.d_diner: {
+                Intent intent = new Intent(getApplicationContext(), Diner.class);
+                startActivity(intent);
+            }
+            break;
+            case R.id.d_gouter: {
+                Intent intent = new Intent(getApplicationContext(), Gouter.class);
+                startActivity(intent);
+            }
+            break;
 
+            default:
+                break;
+        }
+    }
 
 
     private String findNomSeanceById(long id) {

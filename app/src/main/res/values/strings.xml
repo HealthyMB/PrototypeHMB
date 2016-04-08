@@ -53,4 +53,27 @@
 
     <string name="action_settings">Settings</string>
 
+    <string name="d_repas">Repas</string>
+    <string name="d_petit_dej">Petit Déjeuner</string>
+    <string name="d_dejeuner">Déjeuner</string>
+    <string name="d_diner">Dîner</string>
+    <string name="d_gouter">Goûter</string>
+    <string name="d_title_petit_Dejeuner">Petit Déjeuner</string>
+    <string name="d_viennoiserie">Viennoiserie</string>
+    <string name="d_fruit">Fruits</string>
+    <string name="d_infusion">Infusion</string>
+    <string name="title_activity_viennoiserie">Viennoiserie</string>
+    <string name="d_choix">Choix</string>
+    <string name="d_croissant">Croissant :</string>
+    <string name="d_pain_au_chocolat">Pain au chocolat :</string>
+    <string name="d_chaussons">Chaussons :</string>
+    <string name="d_pain_au_raisins">Pain au raisins :</string>
+    <string name="d_brioche">Brioche :</string>
+    <string name="d_pain_lait">Pain au lait :</string>
+    <string name="d_modifier">Modifier</string>
+    <string name="title_activity_dejeuner">Dejeuner</string>
+    <string name="title_activity_diner">Diner</string>
+    <string name="title_activity_gouter">Gouter</string>
+    <string name="title_activity_resume_repas">resumeRepas</string>
+
 </resources>

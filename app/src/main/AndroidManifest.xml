@@ -18,7 +18,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".Formulaire" />
+        <activity android:name=".Formulaire"
+            android:label="Formulaire">
+        </activity>
         <activity android:name=".Accountcreation" />
         <activity android:name=".Profil" />
         <activity

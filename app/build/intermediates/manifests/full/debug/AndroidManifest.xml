@@ -26,7 +26,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="efrei.healthymb.Formulaire" />
+        <activity
+            android:name="efrei.healthymb.Formulaire"
+            android:label="Formulaire" >
+        </activity>
         <activity android:name="efrei.healthymb.Accountcreation" />
         <activity android:name="efrei.healthymb.Profil" />
         <activity

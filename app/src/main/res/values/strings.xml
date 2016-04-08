@@ -13,23 +13,23 @@
     <string name="confirmMdp">Confirmez le mot de passe</string>
 
     <string name="generalites">Généralités</string>
-    <string name="sexe">Sexe :</string>
+    <string name="sexe">Sexe : </string>
     <string name="masculin">Masculin</string>
     <string name="feminin">Feminin</string>
-    <string name="taille">Taille :</string>
-    <string name="poids">Poids :</string>
-    <string name="age">Age :</string>
-    <string name="objectifs">Objectifs :</string>
-    <string name="perdrePoids">Perdre du poids :</string>
-    <string name="physique">Se maintenir physiquement :</string>
-    <string name="muscu">Se renforcer musculairement :</string>
+    <string name="taille">Taille : </string>
+    <string name="poids">Poids : </string>
+    <string name="age">Age : </string>
+    <string name="objectifs">Objectifs : </string>
+    <string name="perdrePoids">Perdre du poids : </string>
+    <string name="physique">Se maintenir physiquement : </string>
+    <string name="muscu">Se renforcer musculairement : </string>
     <string name="valider">Valider</string>
 
 
     <string name="sexeT">" Masculin"</string>
-    <string name="tailleT">" 1m82"</string>
-    <string name="poidsT">" 80kg"</string>
-    <string name="ageT">" 22 ans"</string>
+    <string name="tailleT">"1m82"</string>
+    <string name="poidsT">"80kg"</string>
+    <string name="ageT">"22 ans"</string>
     <string name="modifier">modifier</string>
 
 
@@ -49,6 +49,7 @@
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="welcome_msg">Bienvenue</string>
 
     <string name="action_settings">Settings</string>
 

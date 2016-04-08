@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\PrototypeHMB\app\src\main\AndroidManifest.xml:2:1-35:12
+ADDED from D:\PrototypeHMB\app\src\main\AndroidManifest.xml:2:1-37:12
 	xmlns:android
 		ADDED from D:\PrototypeHMB\app\src\main\AndroidManifest.xml:2:11-69
 	package
@@ -22,7 +22,7 @@ ADDED from D:\PrototypeHMB\app\src\main\AndroidManifest.xml:6:5-79
 	android:name
 		ADDED from D:\PrototypeHMB\app\src\main\AndroidManifest.xml:6:22-76
 application
-ADDED from D:\PrototypeHMB\app\src\main\AndroidManifest.xml:8:5-33:19
+ADDED from D:\PrototypeHMB\app\src\main\AndroidManifest.xml:8:5-35:19
 MERGED from [com.android.support:appcompat-v7:23.2.0] D:\PrototypeHMB\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-v4:23.2.0] D:\PrototypeHMB\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:animated-vector-drawable:23.2.0] D:\PrototypeHMB\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.0\AndroidManifest.xml:7:5-20
@@ -68,35 +68,37 @@ ADDED from D:\PrototypeHMB\app\src\main\AndroidManifest.xml:18:17-77
 	android:name
 		ADDED from D:\PrototypeHMB\app\src\main\AndroidManifest.xml:18:27-74
 activity#efrei.healthymb.Formulaire
-ADDED from D:\PrototypeHMB\app\src\main\AndroidManifest.xml:21:9-48
+ADDED from D:\PrototypeHMB\app\src\main\AndroidManifest.xml:21:9-23:20
+	android:label
+		ADDED from D:\PrototypeHMB\app\src\main\AndroidManifest.xml:22:13-39
 	android:name
 		ADDED from D:\PrototypeHMB\app\src\main\AndroidManifest.xml:21:19-45
 activity#efrei.healthymb.Accountcreation
-ADDED from D:\PrototypeHMB\app\src\main\AndroidManifest.xml:22:9-53
+ADDED from D:\PrototypeHMB\app\src\main\AndroidManifest.xml:24:9-53
 	android:name
-		ADDED from D:\PrototypeHMB\app\src\main\AndroidManifest.xml:22:19-50
+		ADDED from D:\PrototypeHMB\app\src\main\AndroidManifest.xml:24:19-50
 activity#efrei.healthymb.Profil
-ADDED from D:\PrototypeHMB\app\src\main\AndroidManifest.xml:23:9-44
+ADDED from D:\PrototypeHMB\app\src\main\AndroidManifest.xml:25:9-44
 	android:name
-		ADDED from D:\PrototypeHMB\app\src\main\AndroidManifest.xml:23:19-41
+		ADDED from D:\PrototypeHMB\app\src\main\AndroidManifest.xml:25:19-41
 activity#sport.SportSeance
-ADDED from D:\PrototypeHMB\app\src\main\AndroidManifest.xml:24:9-27:20
+ADDED from D:\PrototypeHMB\app\src\main\AndroidManifest.xml:26:9-29:20
 	android:configChanges
-		ADDED from D:\PrototypeHMB\app\src\main\AndroidManifest.xml:26:13-59
+		ADDED from D:\PrototypeHMB\app\src\main\AndroidManifest.xml:28:13-59
 	android:name
-		ADDED from D:\PrototypeHMB\app\src\main\AndroidManifest.xml:25:13-45
+		ADDED from D:\PrototypeHMB\app\src\main\AndroidManifest.xml:27:13-45
 activity#sport.SportExercice
-ADDED from D:\PrototypeHMB\app\src\main\AndroidManifest.xml:28:9-56
+ADDED from D:\PrototypeHMB\app\src\main\AndroidManifest.xml:30:9-56
 	android:name
-		ADDED from D:\PrototypeHMB\app\src\main\AndroidManifest.xml:28:19-53
+		ADDED from D:\PrototypeHMB\app\src\main\AndroidManifest.xml:30:19-53
 activity#efrei.healthymb.MenuActivity
-ADDED from D:\PrototypeHMB\app\src\main\AndroidManifest.xml:29:9-32:68
+ADDED from D:\PrototypeHMB\app\src\main\AndroidManifest.xml:31:9-34:68
 	android:label
-		ADDED from D:\PrototypeHMB\app\src\main\AndroidManifest.xml:31:13-56
+		ADDED from D:\PrototypeHMB\app\src\main\AndroidManifest.xml:33:13-56
 	android:theme
-		ADDED from D:\PrototypeHMB\app\src\main\AndroidManifest.xml:32:13-56
+		ADDED from D:\PrototypeHMB\app\src\main\AndroidManifest.xml:34:13-56
 	android:name
-		ADDED from D:\PrototypeHMB\app\src\main\AndroidManifest.xml:30:13-41
+		ADDED from D:\PrototypeHMB\app\src\main\AndroidManifest.xml:32:13-41
 uses-sdk
 INJECTED from D:\PrototypeHMB\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:appcompat-v7:23.2.0] D:\PrototypeHMB\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\AndroidManifest.xml:21:5-23:78

@@ -41,6 +41,21 @@ import sport.SportSeance;
 public class MenuActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
 
+    private int idUser;
+    private String nom;
+    private String prenom;
+    private ListView listeSeance;
+    private ArrayList<Seance> seances = new ArrayList<Seance>();
+
+
+    private TextView nomTextAccueil;
+    private TextView nomTextHeader;
+
+
+    private TextView sexeT, tailleT, poidsT, ageT;
+    private CheckBox poidsBox, physiqueBox, muscuBox;
+    private Button modifier;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -59,6 +74,30 @@ public class MenuActivity extends AppCompatActivity
 
         NavigationView navigationView = (NavigationView) findViewById(R.id.nav_view);
         navigationView.setNavigationItemSelectedListener(this);
+        View view = navigationView.getHeaderView(0);
+        nomTextHeader = (TextView) view.findViewById(R.id.nomTextHeaderID);
+        nomTextAccueil= (TextView) findViewById(R.id.nomTextAccueilID);
+        HashMap postData = new HashMap();
+        postData.put("idUser", String.valueOf(idUser));
+        PostResponseAsyncTask task1 = new PostResponseAsyncTask(MenuActivity.this, postData, new AsyncResponse() {
+            @Override
+            public void processFinish(String s) {
+                Log.e("error", s);
+                if (s.contains("success")) {
+                    String data[] = s.split(";");
+                    prenom = data[1];
+                    nom = data[2];
+                    nomTextAccueil.setText(prenom+" "+nom);
+                    nomTextHeader.setText(prenom+" "+nom);
+                    Log.e("test", nom+" "+prenom);
+
+                } else {
+                    Toast.makeText(MenuActivity.this, "Connection failed!", Toast.LENGTH_LONG).show();
+                }
+            }
+        });
+
+        task1.execute("http://healthymb.no-ip.org:8080/PA8/menu.php");
     }
 
     @Override
@@ -102,8 +141,6 @@ public class MenuActivity extends AppCompatActivity
 
         if (id == R.id.nav_sport) {
             vf.setDisplayedChild(1);
-
-
         }
         else if (id == R.id.nav_diet) {
             vf.setDisplayedChild(1);
@@ -141,17 +178,14 @@ public class MenuActivity extends AppCompatActivity
         }
     }
 
-    private ListView listeSeance;
-    private ArrayList<Seance> seances = new ArrayList<Seance>();
-    private int idUser = 1; // @TODO enlever le = 1 (juste pour les tests)
+
 
     public void init(){
         seances = new ArrayList<Seance>();
-        // @TODO à remettre apres les tests
-        /*
+
         Bundle extras = getIntent().getExtras();
         idUser = Integer.parseInt(extras.getString("idUser"));
-        */
+
         listeSeance = (ListView) findViewById(R.id.listeSeance);
 
         HashMap postData = new HashMap();
@@ -206,9 +240,7 @@ public class MenuActivity extends AppCompatActivity
         return null;
     }
 
-    private TextView sexeT, tailleT, poidsT, ageT;
-    private CheckBox poidsBox, physiqueBox, muscuBox;
-    private Button modifier;
+
 
     public void init_profil(){
 

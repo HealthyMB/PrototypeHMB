@@ -4,20 +4,20 @@
         "source": "D:\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\notification_template_part_chronometer.xml"
     },
     {
-        "merged": "D:\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
-        "source": "D:\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.0\\res\\layout\\design_layout_snackbar_include.xml"
-    },
-    {
         "merged": "D:\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
         "source": "D:\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_popup_menu_item_layout.xml"
     },
     {
-        "merged": "D:\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
-        "source": "D:\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_action_mode_bar.xml"
+        "merged": "D:\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "D:\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.0\\res\\layout\\design_layout_snackbar_include.xml"
     },
     {
         "merged": "D:\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
         "source": "D:\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "D:\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_action_mode_bar.xml"
     },
     {
         "merged": "D:\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dev_layout.xml",
@@ -56,12 +56,12 @@
         "source": "D:\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_alert_dialog_material.xml"
     },
     {
-        "merged": "D:\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
-        "source": "D:\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\notification_template_lines.xml"
-    },
-    {
         "merged": "D:\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
         "source": "D:\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "D:\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\notification_template_lines.xml"
     },
     {
         "merged": "D:\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
@@ -96,12 +96,12 @@
         "source": "D:\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
     },
     {
-        "merged": "D:\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_petit_dejeuner.xml",
-        "source": "D:\\PrototypeHMB\\app\\src\\main\\res\\layout\\activity_petit_dejeuner.xml"
-    },
-    {
         "merged": "D:\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
         "source": "D:\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_petit_dejeuner.xml",
+        "source": "D:\\PrototypeHMB\\app\\src\\main\\res\\layout\\activity_petit_dejeuner.xml"
     },
     {
         "merged": "D:\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\accueil.xml",
@@ -112,12 +112,12 @@
         "source": "D:\\PrototypeHMB\\app\\src\\main\\res\\layout\\exo.xml"
     },
     {
-        "merged": "D:\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
-        "source": "D:\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_expanded_menu_layout.xml"
-    },
-    {
         "merged": "D:\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
         "source": "D:\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "D:\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_expanded_menu_layout.xml"
     },
     {
         "merged": "D:\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
@@ -140,12 +140,12 @@
         "source": "D:\\PrototypeHMB\\app\\src\\main\\res\\layout\\activity_authentification.xml"
     },
     {
-        "merged": "D:\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_diner.xml",
-        "source": "D:\\PrototypeHMB\\app\\src\\main\\res\\layout\\activity_diner.xml"
-    },
-    {
         "merged": "D:\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
         "source": "D:\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_diner.xml",
+        "source": "D:\\PrototypeHMB\\app\\src\\main\\res\\layout\\activity_diner.xml"
     },
     {
         "merged": "D:\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_header_menu2.xml",
@@ -176,24 +176,24 @@
         "source": "D:\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\select_dialog_multichoice_material.xml"
     },
     {
-        "merged": "D:\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
-        "source": "D:\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.0\\res\\layout\\design_layout_snackbar.xml"
-    },
-    {
         "merged": "D:\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
         "source": "D:\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "D:\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.0\\res\\layout\\design_layout_snackbar.xml"
     },
     {
         "merged": "D:\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_profil.xml",
         "source": "D:\\PrototypeHMB\\app\\src\\main\\res\\layout\\activity_profil.xml"
     },
     {
-        "merged": "D:\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_viennoiserie.xml",
-        "source": "D:\\PrototypeHMB\\app\\src\\main\\res\\layout\\activity_viennoiserie.xml"
-    },
-    {
         "merged": "D:\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
         "source": "D:\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_viennoiserie.xml",
+        "source": "D:\\PrototypeHMB\\app\\src\\main\\res\\layout\\activity_viennoiserie.xml"
     },
     {
         "merged": "D:\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
@@ -248,12 +248,12 @@
         "source": "D:\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\notification_template_big_media_narrow.xml"
     },
     {
-        "merged": "D:\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
-        "source": "D:\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_action_bar_title_item.xml"
-    },
-    {
         "merged": "D:\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
         "source": "D:\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "D:\\PrototypeHMB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_action_bar_title_item.xml"
     },
     {
         "merged": "D:\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",

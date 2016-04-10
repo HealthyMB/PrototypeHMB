@@ -20,6 +20,9 @@ import static java.lang.Double.parseDouble;
 /**
  * Created by Valentin on 09/04/2016.
  */
+import static java.lang.Double.parseDouble;
+import static java.lang.Integer.parseInt;
+
 public class Viennoiserie extends AppCompatActivity implements View.OnClickListener{
     private SeekBar croissantBar, pain_chocBar, chaussonsBar,
             pain_raisinBar, pain_laitBar, briocheBar;
@@ -30,6 +33,7 @@ public class Viennoiserie extends AppCompatActivity implements View.OnClickListe
 
     private Double portion;
     private String data[];
+    private HashMap<TextView, TextView> alimentConsomés;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -59,8 +63,17 @@ public class Viennoiserie extends AppCompatActivity implements View.OnClickListe
         d_pain_au_lait_Id = (TextView)findViewById(R.id.d_pain_au_chocolat_Id);
         d_pain_aux_raisins_Id = (TextView)findViewById(R.id.d_pain_au_raisins_Id);
         d_brioche_Id = (TextView)findViewById(R.id.d_brioche_Id);
-        //test_bdd = (TextView)findViewById(R.id.test_bdd);
-
+        alimentConsomés = new HashMap<TextView, TextView>();
+        alimentConsomés.put(d_croissant_Id, croissant_Portion);
+        alimentConsomés.put(d_pain_au_chocolat_Id, pain_choc_Portion);
+        alimentConsomés.put(d_pain_au_lait_Id, pain_lait_Portion);
+        alimentConsomés.put(d_brioche_Id, brioche_Portion);
+        alimentConsomés.put(d_pain_aux_raisins_Id, pain_raisin_Portion);
+        croissant_Portion.setText("0.0 portion");
+        pain_choc_Portion.setText("0.0 portion");
+        pain_raisin_Portion.setText("0.0 portion");
+        pain_lait_Portion.setText("0.0 portion");
+        brioche_Portion.setText("0.0 portion");
 
 
     }
@@ -81,30 +94,27 @@ public class Viennoiserie extends AppCompatActivity implements View.OnClickListe
 
             case R.id.d_valider: {
 
+                for(TextView key : alimentConsomés.keySet()){
+                    if(!alimentConsomés.get(key).getText().toString().equals("0.0 portion")){
+                        for(int i = 0; i< data.length; i++){
+                            if(data[i].equals(key.getText().toString())){
 
+                                portion = parseDouble(alimentConsomés.get(key).getText().toString().substring(0,2));
+                                Double portionMangé = portion*parseInt(data[i+1]);
+                                Aliment aliment = new Aliment(parseInt(data[i - 1]),
+                                        data[i],portionMangé.intValue(),data[i+2]);
 
+                                ((syntheseRepas)getApplication()).addAlimentPetitDejeuner(aliment, portion);
 
+                            }
 
-                Aliment croissant = new Aliment(1,"Croissant",180,"Patisserie");
-                Aliment pain_au_lait = new Aliment(1,"Pain au lait",120,"Patisserie");
+                        }
+                    }
 
-                try {
-                    String croiss = croissant_Portion.getText().toString().substring(0,1);
-                    String pain = pain_lait_Portion.getText().toString().substring(0,1);
-                    Log.i("test2", "in the error");
-                    Log.d("portion:" ,croiss);
-                    portion = parseDouble(croiss);
-                    ((syntheseRepas)getApplication()).addAliment(croissant, portion);
-                    portion = parseDouble(pain);
-                    ((syntheseRepas)getApplication()).addAliment(pain_au_lait, portion);
-                    Toast.makeText(Viennoiserie.this, "Repas enregistrer !!", Toast.LENGTH_LONG).show();
-                    Intent intent = new Intent(getApplicationContext(), Petit_Dejeuner.class);
-                    startActivity(intent);
-
-                } catch (Exception e) {
-                    e.printStackTrace();
                 }
-
+                Toast.makeText(Viennoiserie.this, "Repas enregistré!!", Toast.LENGTH_LONG).show();
+                Intent intent = new Intent(getApplicationContext(), Petit_Dejeuner.class);
+                startActivity(intent);
             }
 
             break;

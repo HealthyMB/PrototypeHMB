@@ -22,12 +22,12 @@ public class resumeRepas extends AppCompatActivity {
         syntheseRepas = (TextView) findViewById(R.id.d_synthese);
         totalcal = (TextView) findViewById(R.id.d_total_calorie);
 
-        HashMap<Aliment, Double> repas = ((syntheseRepas)getApplication()).getRepas();
+        HashMap<Aliment, Double> repas = ((syntheseRepas)getApplication()).getRepasPetitDejeuner();
 
         String s = "" ;
         int total = 0;
         for(Aliment aliment : repas.keySet()){
-            s += repas.get(aliment) + " " + aliment.getNom_Aliment() + "\n valeur énergetique "
+            s += repas.get(aliment).intValue() + " " + aliment.getNom_Aliment() + "\n valeur énergetique "
                     + aliment.getValeur_energetique() + "\n";
             total += aliment.getValeur_energetique();
         }

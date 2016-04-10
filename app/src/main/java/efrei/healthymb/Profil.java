@@ -70,10 +70,10 @@ public class Profil extends Activity {
             public void processFinish(String s) {
                 if (s.contains("success")) {
                     String data[] = s.split(" ");
-                    sexeT.setText((data[1].equals("1")) ? "masculin" : "feminin");
+                    sexeT.setText((data[1].equals("1")) ? "Masculin" : "Feminin");
 
 
-                    tailleT.setText(data[2] + " cm");
+                    tailleT.setText("1 m " + data[2] + " cm");
                     poidsT.setText(data[3] + " kg");
                     ageT.setText(data[4] + " ans");
 

@@ -1,7 +1,7 @@
 package diet;
 
 /**
- * Created by Valentin on 09/04/2016.
+ * Created by Kadi on 02/04/2016.
  */
 public class Aliment {
     private int idAliment;
@@ -56,5 +56,29 @@ public class Aliment {
                 ", valeur_energetique=" + valeur_energetique +
                 ", categorie='" + categorie + '\'' +
                 '}';
+    }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+
+        Aliment aliment = (Aliment) o;
+
+        if (idAliment != aliment.idAliment) return false;
+        if (valeur_energetique != aliment.valeur_energetique) return false;
+        if (nom_Aliment != null ? !nom_Aliment.equals(aliment.nom_Aliment) : aliment.nom_Aliment != null)
+            return false;
+        return !(categorie != null ? !categorie.equals(aliment.categorie) : aliment.categorie != null);
+
+    }
+
+    @Override
+    public int hashCode() {
+        int result = idAliment;
+        result = 31 * result + (nom_Aliment != null ? nom_Aliment.hashCode() : 0);
+        result = 31 * result + valeur_energetique;
+        result = 31 * result + (categorie != null ? categorie.hashCode() : 0);
+        return result;
     }
 }

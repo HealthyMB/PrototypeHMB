@@ -40,7 +40,8 @@
                 android:paddingTop="@dimen/nav_header_vertical_spacing"
                 android:textColor="#ffffff"
                 android:text="Gérard Bouchard"
-                android:textAppearance="@style/TextAppearance.AppCompat.Body1" />
+                android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+                android:id="@+id/nomTextHeaderID" />
 
             <TextView
                 android:id="@+id/textView"

@@ -1,15 +1,15 @@
 [
     {
-        "merged": "D:\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_launcherhb.png",
-        "source": "D:\\PrototypeHMB\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcherhb.png"
-    },
-    {
         "merged": "C:\\Users\\lpoui\\AndroidStudioProjects\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_launcherhb.png",
         "source": "C:\\Users\\lpoui\\AndroidStudioProjects\\PrototypeHMB\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcherhb.png"
     },
     {
         "merged": "C:\\Users\\lpoui\\AndroidStudioProjects\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_launcher.png",
         "source": "C:\\Users\\lpoui\\AndroidStudioProjects\\PrototypeHMB\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_launcherhb.png",
+        "source": "D:\\PrototypeHMB\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcherhb.png"
     },
     {
         "merged": "D:\\PrototypeHMB\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_launcher.png",
